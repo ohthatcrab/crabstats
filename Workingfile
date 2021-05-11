@@ -1,0 +1,28 @@
+from urllib.request import urlopen
+from bs4 import BeautifulSoup
+import pandas as pd
+import requests
+
+# grab the url from the src attribute of the embed code from fbref.com
+url = "https://fbref.com/en/players/97333cf5/scout/10728/Stuart-Armstrong-Scouting-Report"
+
+headers = {'User-Agent': 
+           'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36'}
+
+
+pageTree = requests.get(url, headers=headers)
+pageSoup = BeautifulSoup(pageTree.content, 'html.parser')
+
+# grab the data and put it in a DataFrame
+df = pd.read_html(url, header=[1])[0]
+
+vs_Position = pageSoup.find_all("a", {"class": "sr_preset"})
+vs_Position = vs_Position[0].text.strip()
+
+Player = pageSoup.find_all("h1", {"itemprop": "name"})
+Player = Player[0].text.strip()
+
+League = pageSoup.find_all("strong")
+League = League[7].text.strip()
+
+goals = df.iloc[0]['Percentile']
