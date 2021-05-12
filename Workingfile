@@ -19,6 +19,17 @@ df = pd.read_html(url, header=[1])[0]
 vs_Position = pageSoup.find_all("a", {"class": "sr_preset"})
 vs_Position = vs_Position[0].text.strip()
 
+if vs_Position == 'vs. Att Mid / Wingers':
+    params = [#attacking
+    "np Goals", "np xG", "Shots",
+    "np xG/Sh", "\nTouches in the\nPenalty Area",
+        #possession
+    "Touches\nper Turnover", "Progressive\nPasses", "Progressive\nCarries",
+    "Final 1/3 Passes", "Final 1/3 Carries",
+        #defensive
+    "pAdj\nPressure Regains", "pAdj\nTackles Made",
+    "pAdj\nInterceptions", "Recoveries", "Aerial Win %"]
+
 Player = pageSoup.find_all("h1", {"itemprop": "name"})
 Player = Player[0].text.strip()
 
