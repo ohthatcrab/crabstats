@@ -1,0 +1,131 @@
+from urllib.request import urlopen
+from bs4 import BeautifulSoup
+import pandas as pd
+import requests
+import urllib.request as urllib
+headers = {'User-Agent':'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36'}
+
+data_ = ["https://fbref.com/en/matches/45bd1880/Everton-West-Bromwich-Albion-September-19-2020-Premier-League",
+"https://fbref.com/en/matches/583c2b60/Leeds-United-Fulham-September-19-2020-Premier-League",
+"https://fbref.com/en/matches/97279323/Manchester-United-Crystal-Palace-September-19-2020-Premier-League",
+"https://fbref.com/en/matches/f4835ec2/Arsenal-West-Ham-United-September-19-2020-Premier-League",
+"https://fbref.com/en/matches/967efd56/Southampton-Tottenham-Hotspur-September-20-2020-Premier-League",
+"https://fbref.com/en/matches/845f6a86/Newcastle-United-Brighton-and-Hove-Albion-September-20-2020-Premier-League",
+"https://fbref.com/en/matches/c64e5792/Chelsea-Liverpool-September-20-2020-Premier-League",
+"https://fbref.com/en/matches/465b25a8/Leicester-City-Burnley-September-20-2020-Premier-League",
+"https://fbref.com/en/matches/98b4b5b6/Aston-Villa-Sheffield-United-September-21-2020-Premier-League",
+"https://fbref.com/en/matches/1c17eca3/Wolverhampton-Wanderers-Manchester-City-September-21-2020-Premier-League"]
+
+for u in range(len(data_)):
+       
+    # grab the url from the src attribute of the embed code from fbref.com
+    url = data_[u]
+    
+    pageTree = requests.get(url, headers=headers)
+    pageSoup = BeautifulSoup(pageTree.content, 'html.parser')
+
+    #teams
+    scorebox = pageSoup.find('div', attrs={'class':'scorebox'})
+    scorebox_clubs = scorebox.find_all("a")
+    home_team = scorebox_clubs[0].text.strip()
+    away_team_check = scorebox_clubs[2].text.strip()
+    
+    if away_team_check == 'Next Match':
+        away_team = scorebox_clubs[4].text.strip()
+    else:
+        away_team = scorebox_clubs[3].text.strip()
+        
+    away_team
+    page_title_long = pageSoup.find_all('title')
+    page_title = page_title_long[0].text.strip()
+    
+    scorebox = pageSoup.find('div', attrs={'class':'scorebox_meta'})
+    scorebox_clubs = scorebox.find_all("a")
+    match_date_full = scorebox_clubs[0].text.strip()
+    match_date = match_date_full.replace(",", "")
+    league_full = scorebox_clubs[1].text.strip()
+    league = league_full.replace(",", "")
+    
+    # summary stats
+    df_summary_home = pd.read_html(url, header=[1])[3]
+    df_summary_home.drop(df_summary_home.tail(1).index,
+            inplace = True)
+    df_summary_home.insert(6, "Team", home_team)
+    df_summary_away = pd.read_html(url, header=[1])[10]
+    df_summary_away.drop(df_summary_away.tail(1).index,
+            inplace = True)
+    df_summary_away.insert(6, "Team", away_team)
+    df_summary = df_summary_home.append(df_summary_away)
+    df_summary.insert(6, "Pg_tl", page_title)
+    df_summary.insert(7, "Pg_url", url)
+    df_summary.insert(8, "League", league)
+
+    #passing stats
+    df_passing_home = pd.read_html(url, header=[1])[4]
+    df_passing_home.drop(df_passing_home.tail(1).index,
+            inplace = True)
+    df_passing_away = pd.read_html(url, header=[1])[11]
+    df_passing_away.drop(df_passing_away.tail(1).index,
+            inplace = True)
+    df_passing = df_passing_home.append(df_passing_away)
+
+    #pass types
+    df_pass_types_home = pd.read_html(url, header=[1])[5]
+    df_pass_types_home.drop(df_pass_types_home.tail(1).index,
+            inplace = True)
+    df_pass_types_away = pd.read_html(url, header=[1])[12]
+    df_pass_types_away.drop(df_pass_types_away.tail(1).index,
+            inplace = True)
+    df_pass_types = df_pass_types_home.append(df_pass_types_away)
+
+    #defensive actions
+    df_defacts_home = pd.read_html(url, header=[1])[6]
+    df_defacts_home.drop(df_defacts_home.tail(1).index,
+            inplace = True)
+    df_defacts_away = pd.read_html(url, header=[1])[13]
+    df_defacts_away.drop(df_defacts_away.tail(1).index,
+            inplace = True)
+    df_defacts = df_defacts_home.append(df_defacts_away)
+
+    #possession
+    df_possession_home = pd.read_html(url, header=[1])[7]
+    df_possession_home.drop(df_possession_home.tail(1).index,
+            inplace = True)
+    df_possession_away = pd.read_html(url, header=[1])[14]
+    df_possession_away.drop(df_possession_away.tail(1).index,
+            inplace = True)
+    df_possession = df_possession_home.append(df_possession_away)
+
+    #misc
+    df_misc_home = pd.read_html(url, header=[1])[8]
+    df_misc_home.drop(df_misc_home.tail(1).index,
+            inplace = True)
+    df_misc_away = pd.read_html(url, header=[1])[15]
+    df_misc_away.drop(df_misc_away.tail(1).index,
+            inplace = True)
+    df_misc = df_misc_home.append(df_misc_away)
+
+    #gk
+    df_gk_home = pd.read_html(url, header=[1])[9]
+    df_gk_home.drop(df_gk_home.tail(1).index,
+            inplace = True)
+    df_gk_away = pd.read_html(url, header=[1])[16]
+    df_gk_away.drop(df_gk_away.tail(1).index,
+            inplace = True)
+    df_gk = df_gk_home.append(df_gk_away)
+
+    #combine data frames
+
+    df_combine1 = pd.merge(df_summary, df_passing, on=['Player','#','Nation','Pos','Age','Min'], how='inner')
+
+    df_combine2 = pd.merge(df_combine1, df_pass_types, on=['Player','#','Nation','Pos','Age','Min'], how='inner')
+
+    df_combine3 = pd.merge(df_combine2, df_defacts, on=['Player','#','Nation','Pos','Age','Min'], how='inner')
+
+    df_combine4 = pd.merge(df_combine3, df_possession, on=['Player','#','Nation','Pos','Age','Min'], how='inner')
+
+    df_combine = pd.merge(df_combine4, df_misc, on=['Player','#','Nation','Pos','Age','Min'], how='inner')
+
+    #df_combine = pd.merge(df_combine5, df_gk, on=['Player','Nation','Age'], how='inner')
+
+    df_combine.to_csv('FBRef-'+ home_team + ' ' + away_team + ' ' + match_date +'.csv', encoding='utf-8')
