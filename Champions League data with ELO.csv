@@ -1,0 +1,641 @@
+Season,Team,Place,Finish,ELO,Heritgae_Score,PPM,GF,GA,Wins,Finals,SF,QF,R16,Total,Section,Squad,MP,W,D,L,GF,GA,GD,Pts,xG,xGA,xGD,xGD/90,Attendance,Top Team Scorer,Goalkeeper,Notes,Lookup
+2023,Manchester City,1,1,2024.311279,93,2.230769231,2.461538462,0.384615385,0,1,3,6,9,11,1,eng Club Crest Manchester City,13,8,5,0,32,5,27,29,26.5,10.5,16,1.23,63639,Erling Haaland - 12,Ederson,,Manchester City2023
+2023,Inter,2,2,1841.519287,118,1.846153846,1.461538462,0.846153846,1,1,2,5,10,14,2,it Club Crest Inter,13,7,3,3,19,11,8,24,17.9,15.1,2.8,0.22,71415,Edin Džeko - 4,André Onana,,Inter2023
+2023,Real Madrid,4,3,1954.578003,577,2.166666667,2.166666667,1.083333333,7,7,14,15,23,23,SF,es Club Crest Real Madrid,12,8,2,2,26,13,13,26,22.3,15.9,6.4,0.53,58761,Vinicius Júnior - 7,Thibaut Courtois,,Real Madrid2023
+2023,Milan,4,4,1838.609741,206,1.5,1.25,0.916666667,2,3,4,6,12,14,SF,it Club Crest Milan,12,5,3,4,15,11,4,18,16.5,14.6,1.9,0.16,72546,Olivier Giroud - 5,Mike Maignan,,Milan2023
+2023,Bayern Munich,8,5,2014.212891,388,2.5,2.2,0.6,3,5,10,17,21,22,QF,de Club Crest Bayern Munich,10,8,1,1,22,6,16,25,19.4,10.9,8.4,0.84,75000,"Leroy Sané, Eric Maxim Choupo-Moting - 4",Yann Sommer,,Bayern Munich2023
+2023,Napoli,8,6,1903.539063,12,2.2,2.6,0.8,0,0,0,0,3,6,QF,it Club Crest Napoli,10,7,1,2,26,8,18,22,25.2,13,12.2,1.22,49133,Victor Osimhen - 5,Alex Meret,,Napoli2023
+2023,Benfica,8,7,1833.833252,40,2.1,2.6,1.3,0,0,0,4,5,14,QF,pt Club Crest Benfica,10,6,3,1,26,13,13,21,19,10.9,8.1,0.81,60222,João Mário - 6,Odisseas Vlachodimos,,Benfica2023
+2023,Chelsea,8,8,1884.152832,272,1.6,1.2,0.9,2,3,8,11,17,18,QF,eng Club Crest Chelsea,10,5,1,4,12,9,3,16,16.2,10.7,5.5,0.55,39216,Raheem Sterling - 3,Kepa Arrizabalaga,,Chelsea2023
+2023,Liverpool,16,9,2006.174561,264,1.875,2.375,1.5,2,5,6,9,11,14,R16,eng Club Crest Liverpool,8,5,0,3,19,12,7,15,14.7,10.6,4.1,0.51,51578,Mohamed Salah - 8,Alisson,,Liverpool2023
+2023,Paris S-G,16,10,1904.829712,90,1.75,2,1.25,0,1,2,6,11,12,R16,fr Club Crest Paris S-G,8,4,2,2,16,10,6,14,10.8,10,0.8,0.1,46680,Kylian Mbappé - 7,Gianluigi Donnarumma,,Paris S-G2023
+2023,Porto,16,11,1841.211182,127,1.625,1.5,1,1,1,1,6,14,19,R16,pt Club Crest Porto,8,4,1,3,12,8,4,13,15.2,11.4,3.9,0.48,44296,Mehdi Taremi - 5,Diogo Costa,,Porto2023
+2023,RB Leipzig,16,12,1841.707153,20,1.625,1.75,2.125,0,0,1,1,2,4,R16,de Club Crest RB Leipzig,8,4,1,3,14,17,-3,13,11.7,12.4,-0.8,-0.1,44319,"André Silva, Christopher Nkunku - 3",Janis Blaswich,,RB Leipzig2023
+2023,Dortmund,16,13,1801.256104,69,1.5,1.375,0.875,0,1,1,4,8,13,R16,de Club Crest Dortmund,8,3,3,2,11,7,4,12,10.5,11.4,-0.9,-0.12,78516,Jude Bellingham - 4,Alexander Meyer,,Dortmund2023
+2023,Tottenham,16,14,1872.758301,45,1.5,1,0.875,0,1,1,2,4,5,R16,eng Club Crest Tottenham,8,3,3,2,8,7,1,12,10,8.8,1.2,0.15,58434,"Son Heung-min, Richarlison - 2",Hugo Lloris,,Tottenham2023
+2023,Club Brugge,16,15,1661.37146,8,1.375,1,1.375,0,0,0,0,0,8,R16,be Club Crest Club Brugge,8,3,2,3,8,11,-3,11,8,16.9,-8.9,-1.12,24296,"Kamal Sowah, Jutglà - 2",Simon Mignolet,,Club Brugge2023
+2023,Eint Frankfurt,16,16,1785.819824,0,1.25,0.875,1.625,0,0,0,0,0,0,R16,de Club Crest Eint Frankfurt,8,3,1,4,7,13,-6,10,8,12.9,-4.9,-0.61,49300,Daichi Kamada - 3,Kevin Trapp,,Eint Frankfurt2023
+2023,Barcelona,32,17,1874.158447,410,1.166666667,2,2,4,4,11,17,20,22,GR,es Club Crest Barcelona,6,2,1,3,12,12,0,7,9.9,9.3,0.6,0.1,84576,Robert Lewandowski - 5,Marc-André ter Stegen,,Barcelona2023
+2023,Sporting CP,32,18,1747.191284,12,1.166666667,1.333333333,1.5,0,0,0,0,2,8,GR,pt Club Crest Sporting CP,6,2,1,3,8,9,-1,7,3.8,9.8,-6,-1.01,39923,"Marcus Edwards, Arthur... - 2",Antonio Adán,,Sporting CP2023
+2023,Marseille,32,19,1742.113037,19,1,1.333333333,1.333333333,0,0,0,1,3,9,GR,fr Club Crest Marseille,6,2,0,4,8,8,0,6,8.6,5.1,3.5,0.59,37962,"Alexis Sánchez, Chancel Mbemba... - 2",Pau López,,Marseille2023
+2023,Shakhtar,32,20,1644.631836,28,1,1.333333333,1.666666667,0,0,0,1,4,16,GR,ua Club Crest Shakhtar,6,1,3,2,8,10,-2,6,3.7,10.9,-7.1,-1.19,25257,Mykhailo Mudryk - 3,Anatolii Trubin,,Shakhtar2023
+2023,RB Salzburg,32,21,1727.965088,5,1,0.833333333,1.5,0,0,0,0,1,3,GR,at Club Crest RB Salzburg,6,1,3,2,5,9,-4,6,8.3,6.9,1.4,0.23,29301,Noah Okafor - 3,Philipp Köhn,,RB Salzburg2023
+2023,Ajax,32,22,1807.699951,37,1,1.833333333,2.666666667,0,0,1,2,4,13,GR,nl Club Crest Ajax,6,2,0,4,11,16,-5,6,8.3,12.2,-3.9,-0.65,53028,Kudus Mohammed - 4,Remko Pasveer,,Ajax2023
+2023,Atlético Madrid,32,23,1790.952026,109,0.833333333,0.833333333,1.5,0,2,3,6,9,11,GR,es Club Crest Atlético Madrid,6,1,2,3,5,9,-4,5,9.5,9.8,-0.3,-0.05,58797,"Antoine Griezmann, Yannick Carrasco... - 1",Jan Oblak,,Atlético Madrid2023
+2023,Leverkusen,32,24,1758.005859,53,0.833333333,0.666666667,1.333333333,0,1,1,1,7,11,GR,de Club Crest Leverkusen,6,1,2,3,4,8,-4,5,9,7.5,1.5,0.26,28748,Moussa Diaby - 2,Lukáš Hrádecký,,Leverkusen2023
+2023,Sevilla,32,25,1714.772705,21,0.833333333,1,2,0,0,0,1,5,7,GR,es Club Crest Sevilla,6,1,2,3,6,12,-6,5,5.4,10.2,-4.8,-0.8,34415,Youssef En-Nesyri - 2,Yassine Bounou,,Sevilla2023
+2023,Dinamo Zagreb,32,26,1659.472656,5,0.666666667,0.666666667,1.833333333,0,0,0,0,0,5,GR,hr Club Crest Dinamo Zagreb,6,1,1,4,4,11,-7,4,4.2,12.5,-8.3,-1.39,20653,Mislav Orši? - 2,Dominik Livakovi?,,Dinamo Zagreb2023
+2023,Juventus,32,27,1769.969727,152,0.5,1.5,2.166666667,0,3,3,8,15,18,GR,it Club Crest Juventus,6,1,0,5,9,13,-4,3,8.6,10.6,-2,-0.33,34534,"Adrien Rabiot, Arkadiusz Milik... - 2",Wojciech Szcz?sny,,Juventus2023
+2023,FC Copenhagen,32,28,1599.39563,6,0.5,0.166666667,2,0,0,0,0,1,4,GR,dk Club Crest FC Copenhagen,6,0,3,3,1,12,-11,3,4.8,11.2,-6.4,-1.06,34086,Hákon Arnar Haraldsson - 1,Kamil Grabara,,FC Copenhagen2023
+2023,Maccabi Haifa,32,29,1603.245728,2,0.5,1.166666667,3.5,0,0,0,0,0,2,GR,il Club Crest Maccabi Haifa,6,1,0,5,7,21,-14,3,6.4,9.6,-3.3,-0.55,30317,"Tjaronn Chery, Omer Atzili... - 2",Josh Cohen,,Maccabi Haifa2023
+2023,Celtic,32,30,1628.631104,16,0.333333333,0.666666667,2.5,0,0,0,0,3,10,GR,sct Club Crest Celtic,6,0,2,4,4,15,-11,2,9.2,10.9,-1.7,-0.29,57367,Jota - 2,Joe Hart,,Celtic2023
+2023,Viktoria Plze?,32,31,1587.918701,3,0,0.833333333,4,0,0,0,0,0,3,GR,cz Club Crest Viktoria Plze?,6,0,0,6,5,24,-19,0,5.5,15.1,-9.5,-1.59,11279,Tomáš Chorý - 2,Jind?ich Stan?k,,Viktoria Plze?2023
+2023,Rangers,32,32,1631.828247,9,0,0.333333333,3.666666667,0,0,0,0,1,7,GR,sct Club Crest Rangers,6,0,0,6,2,22,-20,0,4.9,14.3,-9.4,-1.57,49253,"Scott Arfield, James Tavernier - 1",Allan McGregor,,Rangers2023
+2022,Real Madrid,1,1,1956.849976,514,2.076923077,2.230769231,1.076923077,6,6,13,14,22,22,1,es Club Crest Real Madrid,13,9,0,4,29,14,15,27,21.6,20.1,1.5,0.11,48111,Karim Benzema - 15,Thibaut Courtois,,Real Madrid2022
+2022,Liverpool,2,2,1990.648804,233,2.384615385,2.307692308,1.076923077,2,4,5,8,10,13,2,eng Club Crest Liverpool,13,10,1,2,30,14,16,31,27.3,13.1,14.2,1.09,64118,Mohamed Salah - 8,Alisson,,Liverpool2022
+2022,Manchester City,4,3,2017.760864,78,1.916666667,2.416666667,1.333333333,0,1,2,5,8,10,SF,eng Club Crest Manchester City,12,7,2,3,29,16,13,23,26.6,11.5,15.1,1.26,49295,Riyad Mahrez - 7,Ederson,,Manchester City2022
+2022,Villarreal,4,4,1797.137939,23,1.5,1.666666667,1.333333333,0,0,1,2,2,3,SF,es Club Crest Villarreal,12,5,3,4,20,16,4,18,19.4,18.6,0.9,0.07,18610,Arnaut Danjuma - 6,Gerónimo Rulli,,Villarreal2022
+2022,Bayern Munich,8,5,2026.328369,381,2.3,3.1,0.7,3,5,10,16,20,21,QF,de Club Crest Bayern Munich,10,7,2,1,31,7,24,23,26.3,7.7,18.6,1.86,34000,Robert Lewandowski - 13,Manuel Neuer,,Bayern Munich2022
+2022,Chelsea,8,6,1932.705933,265,2.2,2.1,1,2,3,8,10,16,17,QF,eng Club Crest Chelsea,10,7,1,2,21,10,11,22,19,11,8,0.8,39076,Timo Werner - 4,Edouard Mendy,,Chelsea2022
+2022,Benfica,8,7,1771.995972,33,1.3,1.4,1.7,0,0,0,3,4,13,QF,pt Club Crest Benfica,10,3,4,3,14,17,-3,13,11.8,21.4,-9.7,-0.97,47128,Darwin Núñez - 6,Odisseas Vlachodimos,,Benfica2022
+2022,Atlético Madrid,8,8,1836.537598,102,1.2,0.9,1,0,2,3,5,8,10,QF,es Club Crest Atlético Madrid,10,3,3,4,9,10,-1,12,12.2,13.2,-1.1,-0.11,58158,Antoine Griezmann - 4,Jan Oblak,,Atlético Madrid2022
+2022,Ajax,16,9,1893.927368,34,2.375,2.75,1,0,0,1,2,3,12,R16,nl Club Crest Ajax,8,6,1,1,22,8,14,19,19,10,8.9,1.12,40181,Sébastien Haller - 11,Remko Pasveer,,Ajax2022
+2022,Juventus,16,10,1822.453491,149,2,1.375,1.25,0,3,3,8,14,17,R16,it Club Crest Juventus,8,5,1,2,11,10,1,16,13.3,10.6,2.7,0.34,21968,Paulo Dybala - 3,Wojciech Szcz?sny,,Juventus2022
+2022,Paris S-G,16,11,1908.35083,87,1.75,1.875,1.375,0,1,2,6,10,11,R16,fr Club Crest Paris S-G,8,4,2,2,15,11,4,14,14.5,13.9,0.6,0.08,44911,Kylian Mbappé - 6,Gianluigi Donnarumma,,Paris S-G2022
+2022,Inter,16,12,1891.260498,115,1.625,1.125,0.875,1,1,2,5,9,13,R16,it Club Crest Inter,8,4,1,3,9,7,2,13,12.8,7.8,5,0.62,41133,Edin Džeko - 3,Samir Handanovi?,,Inter2022
+2022,Manchester Utd,16,13,1879.605225,213,1.5,1.5,1.25,1,3,5,11,15,19,R16,eng Club Crest Manchester Utd,8,3,3,2,12,10,2,12,9.4,10.6,-1.2,-0.15,72893,Cristiano Ronaldo - 6,David de Gea,,Manchester Utd2022
+2022,Lille,16,14,1766.329956,8,1.375,1,1,0,0,0,0,1,6,R16,fr Club Crest Lille,8,3,2,3,8,8,0,11,10.5,7.5,2.9,0.37,37824,"Jonathan David, Burak Y?lmaz - 3",Ivo Grbi?,,Lille2022
+2022,RB Salzburg,16,15,1769.127808,2,1.375,1.25,1.75,0,0,0,0,0,2,R16,at Club Crest RB Salzburg,8,3,2,3,10,14,-4,11,12.3,12.7,-0.5,-0.06,20812,"Karim Adeyemi, Noah Okafor - 3",Philipp Köhn,,RB Salzburg2022
+2022,Sporting CP,16,16,1772.874023,9,1.25,1.75,2.125,0,0,0,0,1,7,R16,pt Club Crest Sporting CP,8,3,1,4,14,17,-3,10,12.2,12.7,-0.5,-0.07,37672,Pedro Gonçalves - 4,Antonio Adán,,Sporting CP2022
+2022,Dortmund,32,17,1810.587891,68,1.5,1.666666667,1.833333333,0,1,1,4,8,12,GR,de Club Crest Dortmund,6,3,0,3,10,11,-1,9,11.5,7.6,3.8,0.64,31607,"Marco Reus, Donyell Malen... - 3",Gregor Kobel,,Dortmund2022
+2022,RB Leipzig,32,18,1763.755737,19,1.166666667,2.5,2.333333333,0,0,1,1,2,3,GR,de Club Crest RB Leipzig,6,2,1,3,15,14,1,7,13.4,11,2.4,0.4,21098,Christopher Nkunku - 7,Péter Gulácsi,,RB Leipzig2022
+2022,Sheriff Tiraspol,32,19,1489.968384,0,1.166666667,1.166666667,1.833333333,0,0,0,0,0,0,GR,md Club Crest Sheriff Tiraspol,6,2,1,3,7,11,-4,7,4.4,12.2,-7.9,-1.32,5689,"Adama Traoré, Sébastien Thill - 2",Giorgos Athanasiadis,,Sheriff Tiraspol2022
+2022,Barcelona,32,20,1832.3927,409,1.166666667,0.333333333,1.5,4,4,11,17,20,21,GR,es Club Crest Barcelona,6,2,1,3,2,9,-7,7,6.5,9.5,-3,-0.51,45092,"Gerard Piqué, Ansu Fati - 1",Marc-André ter Stegen,,Barcelona2022
+2022,Sevilla,32,21,1838.665161,20,1,0.833333333,0.833333333,0,0,0,1,5,6,GR,es Club Crest Sevilla,6,1,3,2,5,5,0,6,7.2,7.8,-0.6,-0.09,25468,Ivan Rakiti? - 2,Yassine Bounou,,Sevilla2022
+2022,Atalanta,32,22,1795.958496,10,1,2,2.166666667,0,0,0,1,2,2,GR,it Club Crest Atalanta,6,1,3,2,12,13,-1,6,10.2,9.1,1.1,0.18,11556,Duván Zapata - 3,Juan Musso,,Atalanta2022
+2022,Zenit,32,23,1671.380615,14,0.833333333,1.666666667,1.666666667,0,0,0,0,3,8,GR,ru Club Crest Zenit,6,1,2,3,10,10,0,5,9.8,8,1.9,0.31,21135,"Claudinho, Sardar Azmoun - 2",Stanislav Kritsyuk,,Zenit2022
+2022,Young Boys,32,24,1671.373779,1,0.833333333,1.166666667,2,0,0,0,0,0,1,GR,ch Club Crest Young Boys,6,1,2,3,7,12,-5,5,7.4,10.3,-3,-0.5,29879,Jordan Pefok - 2,"Guillaume Faivre, David von Ballmoos",,Young Boys2022
+2022,Wolfsburg,32,25,1669.049438,8,0.833333333,0.833333333,1.666666667,0,0,0,1,1,2,GR,de Club Crest Wolfsburg,6,1,2,3,5,10,-5,5,4.8,11.1,-6.2,-1.04,11463,"Lukas Nmecha, Renato Steffen - 2",Koen Casteels,,Wolfsburg2022
+2022,Porto,32,26,1822.591309,126,0.833333333,0.666666667,1.833333333,1,1,1,6,14,18,GR,pt Club Crest Porto,6,1,2,3,4,11,-7,5,8,8.8,-0.8,-0.13,31493,Luis Díaz - 2,Diogo Costa,,Porto2022
+2022,Milan,32,27,1792.422852,205,0.666666667,1,1.5,2,3,4,6,12,13,GR,it Club Crest Milan,6,1,1,4,6,9,-3,4,5.8,10.2,-4.5,-0.74,43762,"Rafael Leão, Junior Messias... - 1","Mike Maignan, Ciprian T?t?ru?anu",,Milan2022
+2022,Club Brugge,32,28,1593.895874,7,0.666666667,1,3.333333333,0,0,0,0,0,7,GR,be Club Crest Club Brugge,6,1,1,4,6,20,-14,4,6.1,19.5,-13.4,-2.23,25511,Hans Vanaken - 3,Simon Mignolet,,Club Brugge2022
+2022,Shakhtar,32,29,1664.212036,27,0.333333333,0.333333333,2,0,0,0,1,4,15,GR,ua Club Crest Shakhtar,6,0,2,4,2,12,-10,2,6.8,10.1,-3.3,-0.55,22349,Fernando - 2,Anatolii Trubin,,Shakhtar2022
+2022,Dynamo Kyiv,32,30,1633.684448,18,0.166666667,0.166666667,1.833333333,0,0,0,0,2,14,GR,ua Club Crest Dynamo Kyiv,6,0,1,5,1,11,-10,1,4.3,9.2,-4.9,-0.82,27256,Denys Harmash - 1,Heorhiy Bushchan,,Dynamo Kyiv2022
+2022,Malmö,32,31,1548.705078,2,0.166666667,0.166666667,2.333333333,0,0,0,0,0,2,GR,se Club Crest Malmö,6,0,1,5,1,14,-13,1,1.6,15.1,-13.5,-2.25,13634,Søren Rieks - 1,Johan Dahlin,,Malmö2022
+2022,Be?ikta?,32,32,1489.819458,8,0,0.5,3.166666667,0,0,0,0,1,6,GR,tr Club Crest Be?ikta?,6,0,0,6,3,19,-16,0,6.2,19.7,-13.5,-2.26,19031,"Francisco Montero, Cyle Larin... - 1",Ersin Destano?lu,,Be?ikta?2022
+2021,Chelsea,1,1,1852.186279,202,2.307692308,1.769230769,0.307692308,1,2,7,9,15,16,1,eng Club Crest Chelsea,13,9,3,1,23,4,19,30,26,9,17,1.31,333,Olivier Giroud - 6,Edouard Mendy,,Chelsea2021
+2021,Manchester City,2,2,1963.748413,47,2.615384615,1.923076923,0.384615385,0,0,1,4,7,9,2,eng Club Crest Manchester City,13,11,1,1,25,5,20,34,22.5,7.2,15.3,1.18,2016,"Riyad Mahrez, Ferrán Torres - 4",Ederson,,Manchester City2021
+2021,Real Madrid,4,3,1904.735229,499,1.75,1.583333333,1.166666667,6,6,12,13,21,21,SF,es Club Crest Real Madrid,12,6,3,3,19,14,5,21,19.2,15.6,3.7,0.3,,Karim Benzema - 6,Thibaut Courtois,,Real Madrid2021
+2021,Paris S-G,4,4,1874.671387,72,1.583333333,1.833333333,1.25,0,1,1,5,9,10,SF,fr Club Crest Paris S-G,12,6,1,5,22,15,7,19,21.4,18.8,2.6,0.22,,Kylian Mbappé - 8,Keylor Navas,,Paris S-G2021
+2021,Bayern Munich,8,5,2056.982178,374,2.5,2.7,1,3,5,10,15,19,20,QF,de Club Crest Bayern Munich,10,8,1,1,27,10,17,25,21.8,14,7.8,0.78,,Robert Lewandowski - 5,Manuel Neuer,,Bayern Munich2021
+2021,Liverpool,8,6,1970.004761,226,2,1.5,0.6,2,4,5,7,9,12,QF,eng Club Crest Liverpool,10,6,2,2,15,6,9,20,14.7,13.9,0.8,0.08,,Mohamed Salah - 6,Alisson,,Liverpool2021
+2021,Porto,8,7,1804.259644,119,1.9,1.5,0.9,1,1,1,5,13,17,QF,pt Club Crest Porto,10,6,1,3,15,9,6,19,12.5,15.1,-2.6,-0.26,490,Sérgio Oliveira - 5,Agustín Marchesín,,Porto2021
+2021,Dortmund,8,8,1829.74939,61,1.7,1.9,1.3,0,1,1,3,7,11,QF,de Club Crest Dortmund,10,5,2,3,19,13,6,17,14.4,13.6,0.8,0.08,,Erling Haaland - 10,Marwin Hitz,,Dortmund2021
+2021,Juventus,16,9,1854.829956,146,2.25,2.25,1,0,3,3,8,13,16,R16,it Club Crest Juventus,8,6,0,2,18,8,10,18,15.8,9.8,6,0.76,,Álvaro Morata - 6,Wojciech Szcz?sny,,Juventus2021
+2021,Barcelona,16,10,1906.969971,406,2,2.25,1.25,4,4,11,17,19,20,R16,es Club Crest Barcelona,8,5,1,2,18,10,8,16,20.4,12.9,7.5,0.94,,Lionel Messi - 5,Marc-André ter Stegen,,Barcelona2021
+2021,Sevilla,16,11,1846.646973,17,1.75,1.625,1.625,0,0,0,1,4,5,R16,es Club Crest Sevilla,8,4,2,2,13,13,0,14,12.1,11.1,1,0.12,,Youssef En-Nesyri - 6,Yassine Bounou,,Sevilla2021
+2021,RB Leipzig,16,12,1887.239136,16,1.5,1.375,2,0,0,1,1,1,2,R16,de Club Crest RB Leipzig,8,4,0,4,11,16,-5,12,10.6,12.8,-2.2,-0.27,250,Angeliño - 3,Péter Gulácsi,,RB Leipzig2021
+2021,Atalanta,16,13,1824.778931,7,1.375,1.375,1.5,0,0,0,1,1,1,R16,it Club Crest Atalanta,8,3,2,3,11,12,-1,11,11.7,10.4,1.3,0.16,,"Luis Muriel, Duván Zapata - 3",Marco Sportiello,,Atalanta2021
+2021,Lazio,16,14,1735.860962,13,1.25,1.625,1.625,0,0,0,1,2,5,R16,it Club Crest Lazio,8,2,4,2,13,13,0,10,13.1,11.6,1.5,0.19,250,Ciro Immobile - 5,Pepe Reina,,Lazio2021
+2021,Atlético Madrid,16,15,1912.88208,99,1.125,0.875,1.375,0,2,3,5,7,9,R16,es Club Crest Atlético Madrid,8,2,3,3,7,11,-4,9,9.2,10.3,-1.1,-0.14,,João Félix - 3,Jan Oblak,,Atlético Madrid2021
+2021,M'Gladbach,16,16,1789.732422,2,1,2,1.625,0,0,0,0,0,2,R16,de Club Crest M'Gladbach,8,2,2,4,16,13,3,8,11.6,13.8,-2.3,-0.28,,Alassane Pléa - 5,Yann Sommer,,M'Gladbach2021
+2021,Manchester Utd,32,17,1873.156006,212,1.5,2.5,1.666666667,1,3,5,11,15,18,GR,eng Club Crest Manchester Utd,6,3,0,3,15,10,5,9,11.5,8.4,3.1,0.51,374,Marcus Rashford - 6,David de Gea,,Manchester Utd2021
+2021,Club Brugge,32,18,1677.034302,6,1.333333333,1.333333333,1.666666667,0,0,0,0,0,6,GR,be Club Crest Club Brugge,6,2,2,2,8,10,-2,8,8.5,9.3,-0.8,-0.13,,Hans Vanaken - 3,Simon Mignolet,,Club Brugge2021
+2021,Shakhtar,32,19,1766.333008,26,1.333333333,0.833333333,2,0,0,0,1,4,14,GR,ua Club Crest Shakhtar,6,2,2,2,5,12,-7,8,4.7,11,-6.3,-1.05,3393,Manor Solomon - 2,Anatolii Trubin,,Shakhtar2021
+2021,Ajax,32,20,1754.963867,33,1.166666667,1.166666667,1.166666667,0,0,1,2,3,11,GR,nl Club Crest Ajax,6,2,1,3,7,7,0,7,8.1,8,0,0.01,,Dušan Tadi? - 2,André Onana,,Ajax2021
+2021,Inter,32,21,1861.853638,114,1,1.166666667,1.5,1,1,2,5,9,12,GR,it Club Crest Inter,6,1,3,2,7,9,-2,6,8.3,6.5,1.8,0.3,333,Romelu Lukaku - 4,Samir Handanovi?,,Inter2021
+2021,Krasnodar,32,22,1572.159424,0,0.833333333,1,1.833333333,0,0,0,0,0,0,GR,ru Club Crest Krasnodar,6,1,2,3,6,11,-5,5,6.4,11.9,-5.5,-0.92,9948,Marcus Berg - 2,Matvei Safonov,,Krasnodar2021
+2021,RB Salzburg,32,23,1729.993042,1,0.666666667,1.666666667,2.833333333,0,0,0,0,0,1,GR,at Club Crest RB Salzburg,6,1,1,4,10,17,-7,4,11.2,9.3,2,0.33,1000,Mergim Berisha - 4,Cican Stankovic,,RB Salzburg2021
+2021,Dynamo Kyiv,32,24,1626.529419,17,0.666666667,0.666666667,2.166666667,0,0,0,0,2,13,GR,ua Club Crest Dynamo Kyiv,6,1,1,4,4,13,-9,4,6.3,13,-6.7,-1.12,4950,Viktor Tsyhankov - 2,Heorhiy Bushchan,,Dynamo Kyiv2021
+2021,Loko Moscow,32,25,1535.293701,9,0.5,0.833333333,1.666666667,0,0,0,0,2,5,GR,ru Club Crest Loko Moscow,6,0,3,3,5,10,-5,3,4.9,11.1,-6.2,-1.03,7701,Anton Miranchuk - 3,Guilherme Marinato,,Loko Moscow2021
+2021,Olympiacos,32,26,1682.412109,23,0.5,0.333333333,1.666666667,0,0,0,0,3,17,GR,gr Club Crest Olympiacos,6,1,0,5,2,10,-8,3,4.1,9.5,-5.4,-0.9,,"Koka, Mohamed Camara - 1",José Sá,,Olympiacos2021
+2021,Ba?ak?ehir,32,27,1510.716309,0,0.5,1.166666667,3,0,0,0,0,0,0,GR,tr Club Crest Ba?ak?ehir,6,1,0,5,7,18,-11,3,5.2,12.2,-7,-1.16,233,?rfan Kahveci - 3,Mert Günok,,Ba?ak?ehir2021
+2021,Marseille,32,28,1655.837524,18,0.5,0.333333333,2.166666667,0,0,0,1,3,8,GR,fr Club Crest Marseille,6,1,0,5,2,13,-11,3,5.9,10.1,-4.3,-0.71,,Dimitri Payet - 2,Steve Mandanda,,Marseille2021
+2021,Midtjylland,32,29,1603.755493,0,0.333333333,0.666666667,2.166666667,0,0,0,0,0,0,GR,dk Club Crest Midtjylland,6,0,2,4,4,13,-9,2,7.1,11.3,-4.2,-0.71,88,Alexander Scholz - 2,Jesper Hansen,,Midtjylland2021
+2021,Rennes,32,30,1624.185059,0,0.166666667,0.5,1.833333333,0,0,0,0,0,0,GR,fr Club Crest Rennes,6,0,1,5,3,11,-8,1,7.6,12.4,-4.8,-0.8,1658,Serhou Guirassy - 2,Alfred Gomis,,Rennes2021
+2021,Zenit,32,31,1660.649048,13,0.166666667,0.666666667,2.166666667,0,0,0,0,3,7,GR,ru Club Crest Zenit,6,0,1,5,4,13,-9,1,5.6,11.3,-5.7,-0.95,14990,"Artem Dzyuba, Aleksandr Erokhin... - 1",Mikhail Kerzhakov,,Zenit2021
+2021,Ferencváros,32,32,1552.019287,0,0.166666667,0.833333333,2.833333333,0,0,0,0,0,0,GR,hu Club Crest Ferencváros,6,0,1,5,5,17,-12,1,5.6,12.7,-7.1,-1.19,8234,Franck Boli - 2,Dénes Dibusz,,Ferencváros2021
+2020,Bayern Munich,1,1,1941.557129,311,3,3.909090909,0.727272727,2,4,9,14,18,19,W,de Club Crest Bayern Munich,11,11,0,0,43,8,35,33,35.5,10.2,25.3,2.3,50000,Robert Lewandowski - 15,Manuel Neuer,,Bayern Munich2020
+2020,Paris S-G,2,2,1876.388062,41,2.272727273,2.272727273,0.545454545,0,0,0,4,8,9,F,fr Club Crest Paris S-G,11,8,1,2,25,6,19,25,26.2,12.3,13.9,1.27,28058,"Mauro Icardi, Kylian Mbappé - 5",Keylor Navas,,Paris S-G2020
+2020,RB Leipzig,4,3,1827.230591,1,2,1.6,1.2,0,0,0,0,0,1,SF,de Club Crest RB Leipzig,10,6,2,2,16,12,4,20,18,13,5,0.5,32347,"Timo Werner, Marcel Sabitzer... - 4",Péter Gulácsi,,RB Leipzig2020
+2020,Lyon,4,4,1693.906494,61,1.4,1.4,1.4,0,0,1,4,11,15,SF,fr Club Crest Lyon,10,4,2,4,14,14,0,14,12.7,18.4,-5.7,-0.57,41780,Memphis - 6,Anthony Lopes,,Lyon2020
+2020,Manchester City,8,5,2001.572021,40,2.222222222,2.333333333,1,0,0,1,3,6,8,QF,eng Club Crest Manchester City,9,6,2,1,21,9,12,20,25.1,7.9,17.2,1.91,37594,"Raheem Sterling, Gabriel Jesus - 6",Ederson,,Manchester City2020
+2020,Barcelona,8,6,1985.365845,399,2,1.666666667,1.555555556,4,4,11,16,18,19,QF,es Club Crest Barcelona,9,5,3,1,15,14,1,18,14.4,17.9,-3.5,-0.39,60809,Luis Suárez - 5,Marc-André ter Stegen,,Barcelona2020
+2020,Atlético Madrid,8,7,1863.516846,92,1.777777778,1.444444444,1,0,2,3,4,6,8,QF,es Club Crest Atlético Madrid,9,5,1,3,13,9,4,16,15.3,9.1,6.1,0.68,62232,"Álvaro Morata, João Félix - 3",Jan Oblak,,Atlético Madrid2020
+2020,Atalanta,8,8,1769.243774,0,1.444444444,1.888888889,2,0,0,0,0,0,0,QF,it Club Crest Atalanta,9,4,1,4,17,18,-1,13,17.7,18.9,-1.2,-0.14,32770,Josip Ili?i? - 5,Pierluigi Gollini,,Atalanta2020
+2020,Juventus,16,9,1909.993042,143,2.375,1.75,0.75,0,3,3,8,12,15,R16,it Club Crest Juventus,8,6,1,1,14,6,8,19,12,10.9,1.2,0.15,28390,Cristiano Ronaldo - 4,Wojciech Szcz?sny,,Juventus2020
+2020,Napoli,16,10,1786.118896,9,1.625,1.625,1,0,0,0,0,2,5,R16,it Club Crest Napoli,8,3,4,1,13,8,5,13,14.9,11,3.9,0.48,34598,Dries Mertens - 6,Alex Meret,,Napoli2020
+2020,Liverpool,16,11,2075.851318,223,1.625,1.875,1.5,2,4,5,7,8,11,R16,eng Club Crest Liverpool,8,4,1,3,15,12,3,13,16.2,8.8,7.4,0.92,52312,Mohamed Salah - 4,Alisson,,Liverpool2020
+2020,Dortmund,16,12,1816.705078,58,1.625,1.25,1.375,0,1,1,3,6,10,R16,de Club Crest Dortmund,8,4,1,3,10,11,-1,13,14.4,13.1,1.4,0.17,65844,Achraf Hakimi - 4,Roman Bürki,,Dortmund2020
+2020,Real Madrid,16,13,1878.157837,496,1.375,2,1.5,6,6,12,13,20,20,R16,es Club Crest Real Madrid,8,3,2,3,16,12,4,11,16.6,13.7,2.8,0.36,70438,Karim Benzema - 5,Thibaut Courtois,,Real Madrid2020
+2020,Valencia,16,14,1819.737427,87,1.375,1.625,1.875,0,2,2,4,6,11,R16,es Club Crest Valencia,8,3,2,3,13,15,-2,11,14.7,15.7,-1,-0.13,31599,"Rodrigo, Denis Cheryshev... - 2",Jasper Cillessen,,Valencia2020
+2020,Chelsea,16,15,1855.042358,199,1.375,1.5,2,1,2,7,9,14,15,R16,eng Club Crest Chelsea,8,3,2,3,12,16,-4,11,17.5,12.7,4.7,0.59,38845,Tammy Abraham - 3,Kepa Arrizabalaga,,Chelsea2020
+2020,Tottenham,16,16,1840.865967,42,1.25,2.25,2.25,0,1,1,2,3,4,R16,eng Club Crest Tottenham,8,3,1,4,18,18,0,10,14.5,11.2,3.3,0.42,57247,Harry Kane - 6,"Hugo Lloris, Paulo Gazzaniga",,Tottenham2020
+2020,Ajax,32,17,1830.520752,32,1.666666667,2,1,0,0,1,2,3,10,GR,nl Club Crest Ajax,6,3,1,2,12,6,6,10,7.5,13.8,-6.3,-1.05,51951,Quincy Promes - 4,André Onana,,Ajax2020
+2020,RB Salzburg,32,18,1785.476685,0,1.166666667,2.666666667,2.166666667,0,0,0,0,0,0,GR,at Club Crest RB Salzburg,6,2,1,3,16,13,3,7,13.7,11.9,1.8,0.3,29520,Erling Haaland - 8,Cican Stankovic,,RB Salzburg2020
+2020,Inter,32,19,1794.091797,113,1.166666667,1.666666667,1.5,1,1,2,5,9,11,GR,it Club Crest Inter,6,2,1,3,10,9,1,7,10,10.3,-0.3,-0.05,62540,Lautaro Martínez - 5,Samir Handanovi?,,Inter2020
+2020,Benfica,32,20,1812.13916,32,1.166666667,1.666666667,1.833333333,0,0,0,3,4,12,GR,pt Club Crest Benfica,6,2,1,3,10,11,-1,7,8.1,9.4,-1.3,-0.22,46576,Pizzi - 3,Odisseas Vlachodimos,,Benfica2020
+2020,Zenit,32,21,1698.021851,12,1.166666667,1.166666667,1.5,0,0,0,0,3,6,GR,ru Club Crest Zenit,6,2,1,3,7,9,-2,7,6.1,9.5,-3.3,-0.55,51106,"Sardar Azmoun, Artem Dzyuba - 2",Mikhail Kerzhakov,,Zenit2020
+2020,Leverkusen,32,22,1736.998535,52,1,0.833333333,1.5,0,1,1,1,7,10,GR,de Club Crest Leverkusen,6,2,0,4,5,9,-4,6,6.7,6.8,0,-0.01,28098,"Sven Bender, Kevin Volland - 1",Lukáš Hrádecký,,Leverkusen2020
+2020,Shakhtar,32,23,1746.687012,25,1,1.333333333,2.166666667,0,0,0,1,4,13,GR,ua Club Crest Shakhtar,6,1,3,2,8,13,-5,6,8.3,13.1,-4.8,-0.81,28246,"Júnior Moraes, Manor Solomon - 2",Andriy Pyatov,,Shakhtar2020
+2020,Dinamo Zagreb,32,24,1693,4,0.833333333,1.666666667,2.166666667,0,0,0,0,0,4,GR,hr Club Crest Dinamo Zagreb,6,1,2,3,10,13,-3,5,7.5,16.3,-8.8,-1.46,28855,Mislav Orši? - 4,Dominik Livakovi?,,Dinamo Zagreb2020
+2020,Olympiacos,32,25,1694.417114,22,0.666666667,1.333333333,2.333333333,0,0,0,0,3,16,GR,gr Club Crest Olympiacos,6,1,1,4,8,14,-6,4,7.9,12.1,-4.3,-0.71,31523,Youssef El-Arabi - 3,José Sá,,Olympiacos2020
+2020,Loko Moscow,32,26,1568.138306,8,0.5,0.666666667,1.833333333,0,0,0,0,2,4,GR,ru Club Crest Loko Moscow,6,1,0,5,4,11,-7,3,6,13.1,-7,-1.17,26557,Aleksei Miranchuk - 2,Guilherme Marinato,,Loko Moscow2020
+2020,Club Brugge,32,27,1695.089233,5,0.5,0.666666667,2,0,0,0,0,0,5,GR,be Club Crest Club Brugge,6,0,3,3,4,12,-8,3,7.4,10.4,-3,-0.51,26957,Emmanuel Dennis - 2,Simon Mignolet,,Club Brugge2020
+2020,Red Star,32,28,1654.815796,1,0.5,0.5,3.333333333,0,0,0,0,0,1,GR,rs Club Crest Red Star,6,1,0,5,3,20,-17,3,4,19.8,-15.8,-2.64,43263,"Richmond Boakye, Nemanja Milunovi?... - 1",Milan Borjan,,Red Star2020
+2020,Slavia Prague,32,29,1667.53418,1,0.333333333,0.666666667,1.666666667,0,0,0,0,0,1,GR,cz Club Crest Slavia Prague,6,0,2,4,4,10,-6,2,9.4,12.2,-2.8,-0.46,19303,Tomáš Sou?ek - 2,Ond?ej Kolá?,,Slavia Prague2020
+2020,Galatasaray,32,30,1541.935791,27,0.333333333,0.166666667,2.333333333,0,0,0,2,4,11,GR,tr Club Crest Galatasaray,6,0,2,4,1,14,-13,2,4.2,16.4,-12.2,-2.03,43306,Adem Büyük - 1,Fernando Muslera,,Galatasaray2020
+2020,Lille,32,31,1638.27356,7,0.166666667,0.666666667,2.333333333,0,0,0,0,1,5,GR,fr Club Crest Lille,6,0,1,5,4,14,-10,1,8.8,10.1,-1.3,-0.22,48208,Victor Osimhen - 2,Mike Maignan,,Lille2020
+2020,Genk,32,32,1558.20105,2,0.166666667,0.833333333,3.333333333,0,0,0,0,0,2,GR,be Club Crest Genk,6,0,1,5,5,20,-15,1,6.9,18.2,-11.3,-1.88,18957,Mbwana Samatta - 3,Gaëtan Coucke,,Genk2020
+2019,Liverpool,1,1,1961.60144,160,1.923076923,1.846153846,0.923076923,1,3,4,6,7,10,W,eng Club Crest Liverpool,13,8,1,4,24,12,12,25,28.3,13.9,14.4,1.11,52907,Mohamed Salah - 5,Alisson,,Liverpool2019
+2019,Tottenham,2,2,1904.313721,11,1.538461538,1.538461538,1.461538462,0,0,0,1,2,3,F,eng Club Crest Tottenham,13,6,2,5,20,19,1,20,20.5,16.1,4.4,0.34,62947,"Harry Kane, Lucas Moura - 5",Hugo Lloris,,Tottenham2019
+2019,Barcelona,4,3,2019.689087,384,2.25,2.166666667,0.833333333,4,4,10,15,17,18,SF,es Club Crest Barcelona,12,8,3,1,26,10,16,27,23.1,14.4,8.6,0.72,86178,Lionel Messi - 12,Marc-André ter Stegen,,Barcelona2019
+2019,Ajax,4,4,1787.242188,17,1.833333333,1.833333333,1.083333333,0,0,0,1,2,9,SF,nl Club Crest Ajax,12,6,4,2,22,13,9,22,22.3,17.8,4.5,0.38,52056,Dušan Tadi? - 6,André Onana,,Ajax2019
+2019,Manchester City,8,5,1967.114624,33,2.2,3,1.2,0,0,1,2,5,7,QF,eng Club Crest Manchester City,10,7,1,2,30,12,18,22,22.9,10.1,12.8,1.28,49535,Sergio Agüero - 6,Ederson,,Manchester City2019
+2019,Porto,8,6,1815.112915,112,1.9,2,1.5,1,1,1,4,12,16,QF,pt Club Crest Porto,10,6,1,3,20,15,5,19,16.9,19.4,-2.5,-0.25,43415,Moussa Marega - 6,Iker Casillas,,Porto2019
+2019,Juventus,8,7,1965.711304,136,1.6,1.4,0.9,0,3,3,7,11,14,QF,it Club Crest Juventus,10,5,1,4,14,9,5,16,18.9,10.1,8.8,0.88,40766,Cristiano Ronaldo - 6,Wojciech Szcz?sny,,Juventus2019
+2019,Manchester Utd,8,8,1853.443848,205,1.3,1,1.1,1,3,5,10,14,17,QF,eng Club Crest Manchester Utd,10,4,1,5,10,11,-1,13,10.4,13.7,-3.2,-0.32,73708,"Romelu Lukaku, Paul Pogba... - 2",David de Gea,,Manchester Utd2019
+2019,Atlético Madrid,16,9,1919.2854,89,2,1.375,1.125,0,2,3,4,5,7,R16,es Club Crest Atlético Madrid,8,5,1,2,11,9,2,16,8.1,9.1,-1,-0.12,60068,Antoine Griezmann - 4,Jan Oblak,,Atlético Madrid2019
+2019,Bayern Munich,16,10,1944.785522,308,1.875,2,1,2,4,9,14,17,18,R16,de Club Crest Bayern Munich,8,4,3,1,16,8,8,15,14.7,9.3,5.4,0.68,69536,Robert Lewandowski - 8,Manuel Neuer,,Bayern Munich2019
+2019,Real Madrid,16,11,1929.362427,493,1.875,1.875,1.25,6,6,12,13,19,19,R16,es Club Crest Real Madrid,8,5,0,3,15,10,5,15,16.9,10.8,6.1,0.76,66314,Karim Benzema - 4,Thibaut Courtois,,Real Madrid2019
+2019,Paris S-G,16,12,1907.764038,38,1.75,2.5,1.5,0,0,0,4,7,8,R16,fr Club Crest Paris S-G,8,4,2,2,20,12,8,14,16.9,10.5,6.4,0.8,45144,Neymar - 5,Gianluigi Buffon,,Paris S-G2019
+2019,Dortmund,16,13,1850.547241,55,1.625,1.25,0.75,0,1,1,3,5,9,R16,de Club Crest Dortmund,8,4,1,3,10,6,4,13,12.2,6.8,5.5,0.68,66099,Raphaël Guerreiro - 4,Roman Bürki,,Dortmund2019
+2019,Roma,16,14,1778.480103,46,1.5,1.75,1.5,0,0,1,3,8,10,R16,it Club Crest Roma,8,4,0,4,14,12,2,12,15,14,1,0.12,49525,Edin Džeko - 5,Robin Olsen,,Roma2019
+2019,Schalke 04,16,15,1718.94397,33,1.375,1,1.75,0,0,1,2,5,7,R16,de Club Crest Schalke 04,8,3,2,3,8,14,-6,11,10.5,11.9,-1.4,-0.17,50949,Nabil Bentaleb - 3,Ralf Fährmann,,Schalke 042019
+2019,Lyon,16,16,1735.557617,58,1.125,1.625,2,0,0,1,4,10,14,R16,fr Club Crest Lyon,8,1,6,1,13,16,-3,9,12.3,17.2,-5,-0.62,41945,"Nabil Fekir, Maxwel Cornet - 3",Anthony Lopes,,Lyon2019
+2019,Napoli,32,17,1850.229248,8,1.5,1.166666667,0.833333333,0,0,0,0,2,4,GR,it Club Crest Napoli,6,2,3,1,7,5,2,9,10.9,6.5,4.4,0.73,45672,"Lorenzo Insigne, Dries Mertens - 3",David Ospina,,Napoli2019
+2019,Valencia,32,18,1787.776611,86,1.333333333,1,1,0,2,2,4,6,10,GR,es Club Crest Valencia,6,2,2,2,6,6,0,8,6.9,11.1,-4.2,-0.7,39697,"Santi Mina, Carlos Soler - 2",Neto,,Valencia2019
+2019,Inter,32,19,1775.110962,112,1.333333333,1,1.166666667,1,1,2,5,9,10,GR,it Club Crest Inter,6,2,2,2,6,7,-1,8,8.6,7.8,0.8,0.13,65857,Mauro Icardi - 4,Samir Handanovi?,,Inter2019
+2019,CSKA Moscow,32,20,1717.170776,18,1.166666667,1.333333333,1.5,0,0,0,1,2,10,GR,ru Club Crest CSKA Moscow,6,2,1,3,8,9,-1,7,6.9,11.6,-4.8,-0.79,63052,Nikola Vlaši? - 3,Igor Akinfeev,,CSKA Moscow2019
+2019,Benfica,32,21,1744.993652,31,1.166666667,1,1.833333333,0,0,0,3,4,11,GR,pt Club Crest Benfica,6,2,1,3,6,11,-5,7,6.2,10.7,-4.5,-0.75,48412,Álex Grimaldo - 2,Odisseas Vlachodimos,,Benfica2019
+2019,Viktoria Plze?,32,22,1602.755005,2,1.166666667,1.166666667,2.666666667,0,0,0,0,0,2,GR,cz Club Crest Viktoria Plze?,6,2,1,3,7,16,-9,7,7.8,12.3,-4.5,-0.75,11337,Michal Krmen?ík - 2,Aleš Hruška,,Viktoria Plze?2019
+2019,Club Brugge,32,23,1644.068604,4,1,1,0.833333333,0,0,0,0,0,4,GR,be Club Crest Club Brugge,6,1,3,2,6,5,1,6,5.4,6.3,-0.9,-0.15,24928,"Hans Vanaken, Wesley Moraes - 2","Ethan Horvath, Karlo Letica",,Club Brugge2019
+2019,Shakhtar,32,24,1747.939209,24,1,1.333333333,2.666666667,0,0,0,1,4,12,GR,ua Club Crest Shakhtar,6,1,3,2,8,16,-8,6,6.9,13.2,-6.3,-1.04,34786,Júnior Moraes - 3,Andriy Pyatov,,Shakhtar2019
+2019,Galatasaray,32,25,1563.525269,26,0.666666667,0.833333333,1.333333333,0,0,0,2,4,10,GR,tr Club Crest Galatasaray,6,1,1,4,5,8,-3,4,9.9,9.6,0.2,0.04,41394,Eren Derdiyok - 2,Fernando Muslera,,Galatasaray2019
+2019,Young Boys,32,26,1695.824951,0,0.666666667,0.666666667,2,0,0,0,0,0,0,GR,ch Club Crest Young Boys,6,1,1,4,4,12,-8,4,6.5,11.5,-5,-0.83,30785,Guillaume Hoarau - 3,David von Ballmoos,,Young Boys2019
+2019,Red Star,32,27,1675.735229,0,0.666666667,0.833333333,2.833333333,0,0,0,0,0,0,GR,rs Club Crest Red Star,6,1,1,4,5,17,-12,4,2.9,19.4,-16.6,-2.76,49596,Milan Pavkov - 2,Milan Borjan,,Red Star2019
+2019,Hoffenheim,32,28,1733.696045,0,0.5,1.833333333,2.333333333,0,0,0,0,0,0,GR,de Club Crest Hoffenheim,6,0,3,3,11,14,-3,3,11.1,12.3,-1.2,-0.21,23972,Andrej Kramari? - 5,Oliver Baumann,,Hoffenheim2019
+2019,Loko Moscow,32,29,1610.870117,7,0.5,0.666666667,2,0,0,0,0,2,3,GR,ru Club Crest Loko Moscow,6,1,0,5,4,12,-8,3,6.6,9.2,-2.5,-0.42,17181,"Vladislav Ignatyev, Anton Miranchuk... - 1",Guilherme Marinato,,Loko Moscow2019
+2019,PSV,32,30,1718.827393,36,0.333333333,1,2.166666667,0,0,1,2,4,12,GR,nl Club Crest PSV Eindhoven,6,0,2,4,6,13,-7,2,7.1,13.9,-6.8,-1.13,34783,Luuk de Jong - 3,Jeroen Zoet,,PSV2019
+2019,Monaco,32,31,1587.856812,58,0.166666667,0.333333333,2.333333333,0,1,2,3,4,6,GR,fr Club Crest Monaco,6,0,1,5,2,14,-12,1,5.1,11,-5.9,-0.99,9218,"Samuel Grandsir, Moussa Sylla - 1",Diego Benaglio,,Monaco2019
+2019,AEK Athens,32,32,1549.454346,3,0,0.333333333,2.166666667,0,0,0,0,0,3,GR,gr Club Crest AEK Athens,6,0,0,6,2,13,-11,0,4.7,11.9,-7.2,-1.2,39377,Viktor Klonaridis - 2,Vasilios Barkas,,AEK Athens2019
+2018,Real Madrid,1,1,2008.680664,430,2.230769231,2.538461538,1.230769231,5,5,11,12,18,18,W,es Club Crest Real Madrid,13,9,2,2,33,16,17,29,33,20,13.1,1.01,75398,Cristiano Ronaldo - 15,Keylor Navas,? Champions League via playoff win,Real Madrid2018
+2018,Liverpool,2,2,1886.246582,129,1.923076923,3.153846154,1.230769231,1,2,3,5,6,9,F,eng Club Crest Liverpool,13,7,4,2,41,16,25,25,33,13.2,19.7,1.52,49960,"Roberto Firmino, Sadio Mané... - 10",Loris Karius,,Liverpool2018
+2018,Bayern Munich,4,3,1952.967773,293,2.166666667,2.166666667,1,2,4,8,13,16,17,SF,de Club Crest Bayern Munich,12,8,2,2,26,12,14,26,27.4,14.2,13.2,1.1,70000,Robert Lewandowski - 5,Sven Ulreich,,Bayern Munich2018
+2018,Roma,4,4,1855.826172,31,1.666666667,1.75,1.583333333,0,0,0,2,7,9,SF,it Club Crest Roma,12,6,2,4,21,19,2,20,19.1,18.2,0.9,0.07,48587,Edin Džeko - 8,Alisson,,Roma2018
+2018,Barcelona,8,5,2045.797485,377,2.1,1.7,0.6,4,4,10,14,16,17,QF,es Club Crest Barcelona,10,6,3,1,17,6,11,21,13.7,8.9,4.8,0.48,73861,Lionel Messi - 6,Marc-André ter Stegen,,Barcelona2018
+2018,Manchester City,8,6,1981.203857,26,1.8,2,1.2,0,0,1,1,4,6,QF,eng Club Crest Manchester City,10,6,0,4,20,12,8,18,15.7,11,4.6,0.46,48050,"Gabriel Jesus, Raheem Sterling... - 4",Ederson,,Manchester City2018
+2018,Juventus,8,7,1956.88501,129,1.8,1.4,1.2,0,3,3,6,10,13,QF,it Club Crest Juventus,10,5,3,2,14,12,2,18,16.9,13.6,3.3,0.33,38541,Gonzalo Higuaín - 5,Gianluigi Buffon,,Juventus2018
+2018,Sevilla,8,8,1773.77832,10,1.4,1.5,1.5,0,0,0,0,3,4,QF,es Club Crest Sevilla,10,3,5,2,15,15,0,14,16.1,13.9,2.2,0.22,38512,Wissam Ben Yedder - 8,Sergio Rico,,Sevilla2018
+2018,Tottenham,16,9,1916.210449,8,2.125,2.25,1,0,0,0,1,1,2,R16,eng Club Crest Tottenham,8,5,2,1,18,8,10,17,13.1,12.6,0.5,0.06,69454,Harry Kane - 7,Hugo Lloris,,Tottenham2018
+2018,Manchester Utd,16,10,1900.155762,202,2,1.625,0.625,1,3,5,10,13,16,R16,eng Club Crest Manchester Utd,8,5,1,2,13,5,8,16,18,8.2,9.8,1.23,74467,Romelu Lukaku - 5,David de Gea,,Manchester Utd2018
+2018,Paris S-G,16,11,1903.09668,35,1.875,3.375,1.125,0,0,0,4,6,7,R16,fr Club Crest Paris S-G,8,5,0,3,27,9,18,15,17.2,9.5,7.7,0.96,46382,Edinson Cavani - 7,Alphonse Areola,,Paris S-G2018
+2018,Basel,16,12,1716.730713,13,1.875,1.625,1.25,0,0,0,0,3,7,R16,ch Club Crest Basel,8,5,0,3,13,10,3,15,10.4,10.7,-0.3,-0.04,34854,Dimitri Oberlin - 4,Tomáš Vaclík,,Basel2018
+2018,Shakhtar,16,13,1755.47522,21,1.875,1.375,1.375,0,0,0,1,3,11,R16,ua Club Crest Shakhtar,8,5,0,3,11,11,0,15,9.9,13.7,-3.8,-0.48,33652,"Facundo Ferreyra, Bernard - 3",Andriy Pyatov,,Shakhtar2018
+2018,Be?ikta?,16,14,1723.389648,5,1.75,1.5,1.625,0,0,0,0,0,5,R16,tr Club Crest Be?ikta?,8,4,2,2,12,13,-1,14,8.6,15.1,-6.5,-0.81,37448,"Talisca, Cenk Tosun - 4",Fabricio,,Be?ikta?2018
+2018,Chelsea,16,15,1918.829712,196,1.5,2.125,1.5,1,2,7,9,13,14,R16,eng Club Crest Chelsea,8,3,3,2,17,12,5,12,15.5,7.7,7.8,0.97,40218,"Eden Hazard, Willian - 3",Thibaut Courtois,,Chelsea2018
+2018,Porto,16,16,1772.967041,109,1.375,1.875,1.875,1,1,1,4,11,15,R16,pt Club Crest Porto,8,3,2,3,15,15,0,11,10.9,11.2,-0.3,-0.04,43568,Vincent Aboubakar - 5,José Sá,,Porto2018
+2018,CSKA Moscow,32,17,1724.781738,17,1.5,1.333333333,1.666666667,0,0,0,1,2,9,GR,ru Club Crest CSKA Moscow,6,3,0,3,8,10,-2,9,5.7,12.9,-7.2,-1.2,28259,Vitinho - 2,Igor Akinfeev,,CSKA Moscow2018
+2018,Atlético Madrid,32,18,1925.755005,88,1.166666667,0.833333333,0.666666667,0,2,3,4,5,6,GR,es Club Crest Atlético Madrid,6,1,4,1,5,4,1,7,11.3,6.9,4.4,0.74,57596,Antoine Griezmann - 2,Jan Oblak,,Atlético Madrid2018
+2018,RB Leipzig,32,19,1690.031494,0,1.166666667,1.666666667,1.833333333,0,0,0,0,0,0,GR,de Club Crest RB Leipzig,6,2,1,3,10,11,-1,7,9.6,7.7,2,0.33,41374,Timo Werner - 3,Péter Gulácsi,,RB Leipzig2018
+2018,Sporting CP,32,20,1729.23999,8,1.166666667,1.333333333,1.5,0,0,0,0,1,6,GR,pt Club Crest Sporting CP,6,2,1,3,8,9,-1,7,7.3,7.1,0.2,0.04,46515,"Bas Dost, Bruno César - 2",Rui Patrício,,Sporting CP2018
+2018,Napoli,32,21,1877.844727,7,1,1.833333333,1.833333333,0,0,0,0,2,3,GR,it Club Crest Napoli,6,2,0,4,11,11,0,6,10.1,8.2,1.8,0.31,25878,Lorenzo Insigne - 3,Pepe Reina,,Napoli2018
+2018,Spartak Moscow,32,22,1715.299561,9,1,1.5,2.166666667,0,0,0,0,1,7,GR,ru Club Crest Spartak Moscow,6,1,3,2,9,13,-4,6,6.8,11.4,-4.6,-0.77,43534,"Quincy Promes, Zé Luís - 2",Aleksandr Selikhov,,Spartak Moscow2018
+2018,Feyenoord,32,23,1583.570801,5,0.5,0.833333333,2.333333333,0,0,0,0,1,3,GR,nl Club Crest Feyenoord,6,1,0,5,5,14,-9,3,5.4,8.6,-3.3,-0.54,41167,Nicolai Jørgensen - 2,Brad Jones,,Feyenoord2018
+2018,Celtic,32,24,1561.723267,15,0.5,0.833333333,3,0,0,0,0,3,9,GR,sct Club Crest Celtic,6,1,0,5,5,18,-13,3,4.7,10.5,-5.7,-0.96,57921,"Scott Sinclair, Callum McGregor... - 1",Craig Gordon,,Celtic2018
+2018,NK Maribor,32,25,1468.994751,2,0.5,0.5,2.666666667,0,0,0,0,0,2,GR,si Club Crest NK Maribor,6,0,3,3,3,16,-13,3,4.1,16.1,-12,-1.99,12349,"Damjan Bohar, Marcos Tavares... - 1",Jasmin Handanovi?,,NK Maribor2018
+2018,Anderlecht,32,26,1614.237549,11,0.5,0.333333333,2.833333333,0,0,0,0,1,9,GR,be Club Crest Anderlecht,6,1,0,5,2,17,-15,3,5.4,14.2,-8.8,-1.47,19586,Sofiane Hanni - 1,"Frank Boeckx, Matz Sels",,Anderlecht2018
+2018,Dortmund,32,27,1762.162476,54,0.333333333,1.166666667,2.166666667,0,1,1,3,5,8,GR,de Club Crest Dortmund,6,0,2,4,7,13,-6,2,9.6,9.8,-0.2,-0.04,65402,Pierre-Emerick Aubameyang - 4,Roman Bürki,,Dortmund2018
+2018,Monaco,32,28,1766.535645,57,0.333333333,1,2.666666667,0,1,2,3,4,5,GR,fr Club Crest Monaco,6,0,2,4,6,16,-10,2,5.9,9.7,-3.8,-0.63,9378,Radamel Falcao - 3,"Danijel Subaši?, Diego Benaglio",,Monaco2018
+2018,Qaraba? FK,32,29,1521.737427,0,0.333333333,0.333333333,2.333333333,0,0,0,0,0,0,GR,az Club Crest Qaraba? FK,6,0,2,4,2,14,-12,2,2.4,14.8,-12.4,-2.06,60741,"Míchel, Pedro Henrique - 1",Ibrahim Šehi?,,Qaraba? FK2018
+2018,APOEL FC,32,30,1603.975586,9,0.333333333,0.333333333,2.833333333,0,0,0,1,1,3,GR,cy Club Crest APOEL FC,6,0,2,4,2,17,-15,2,3.9,16.5,-12.7,-2.11,17211,Mickaël Poté - 2,Nauzet Pérez,,APOEL FC2018
+2018,Olympiacos,32,31,1634.286011,21,0.166666667,0.666666667,2.166666667,0,0,0,0,3,15,GR,gr Club Crest Olympiacos,6,0,1,5,4,13,-9,1,3.4,13.8,-10.3,-1.72,30445,Felipe Pardo - 2,Silvio Proto,,Olympiacos2018
+2018,Benfica,32,32,1720.858154,30,0,0.166666667,2.333333333,0,0,0,3,4,10,GR,pt Club Crest Benfica,6,0,0,6,1,14,-13,0,6.2,10.4,-4.2,-0.69,39492,Haris Seferovi? - 1,Mile Svilar,,Benfica2018
+2017,Real Madrid,1,1,2050.4021,367,2.307692308,2.692307692,1.384615385,4,4,10,11,17,17,W,es Club Crest Real Madrid,13,9,3,1,35,18,17,30,,,,,75547,Cristiano Ronaldo - 12,Keylor Navas,? Champions League via playoff win,Real Madrid2017
+2017,Juventus,2,2,1917.677979,98,2.307692308,1.692307692,0.461538462,0,2,2,5,9,12,F,it Club Crest Juventus,13,9,3,1,22,6,16,30,,,,,33642,Gonzalo Higuaín - 5,Gianluigi Buffon,,Juventus2017
+2017,Atlético Madrid,4,3,1935.477417,73,2.333333333,1.5,0.833333333,0,2,2,3,4,5,SF,es Club Crest Atlético Madrid,12,9,1,2,18,10,8,28,,,,,46751,Antoine Griezmann - 6,Jan Oblak,,Atlético Madrid2017
+2017,Monaco,4,4,1779.363159,42,1.5,1.583333333,1.583333333,0,1,1,2,3,4,SF,fr Club Crest Monaco,12,5,3,4,19,19,0,18,,,,,13471,Kylian Mbappé - 6,Danijel Subaši?,,Monaco2017
+2017,Barcelona,8,5,2017.786133,370,1.9,2.6,1.2,4,4,10,13,15,16,QF,es Club Crest Barcelona,10,6,1,3,26,12,14,19,,,,,85863,Lionel Messi - 11,Marc-André ter Stegen,,Barcelona2017
+2017,Bayern Munich,8,6,2007.808472,286,1.8,2.7,1.4,2,4,8,12,15,16,QF,de Club Crest Bayern Munich,10,6,0,4,27,14,13,18,,,,,70000,Robert Lewandowski - 8,Manuel Neuer,,Bayern Munich2017
+2017,Dortmund,8,7,1875.305664,47,1.7,2.8,1.6,0,1,1,2,4,7,QF,de Club Crest Dortmund,10,5,2,3,28,16,12,17,,,,,63698,Pierre-Emerick Aubameyang - 7,Roman Bürki,,Dortmund2017
+2017,Leicester City,8,8,1731.601074,0,1.7,1.1,1,0,0,0,0,0,0,QF,eng Club Crest Leicester City,10,5,2,3,11,10,1,17,,,,,31471,Riyad Mahrez - 4,Kasper Schmeichel,,Leicester City2017
+2017,Paris S-G,16,9,1851.863892,32,1.875,2.25,1.625,0,0,0,4,5,6,R16,fr Club Crest Paris S-G,8,4,3,1,18,13,5,15,,,,,45516,Edinson Cavani - 8,Alphonse Areola,,Paris S-G2017
+2017,Arsenal,16,10,1871.21106,105,1.75,2.5,2,0,1,2,6,16,17,R16,eng Club Crest Arsenal,8,4,2,2,20,16,4,14,,,,,59869,"Mesut Özil, Theo Walcott - 4",David Ospina,,Arsenal2017
+2017,Sevilla,16,11,1833.127563,7,1.75,1.125,0.75,0,0,0,0,2,3,R16,es Club Crest Sevilla,8,4,2,2,9,6,3,14,,,,,37433,Wissam Ben Yedder - 2,Sergio Rico,,Sevilla2017
+2017,Manchester City,16,12,1849.755005,23,1.625,2.125,1.625,0,0,1,1,3,5,R16,eng Club Crest Manchester City,8,3,4,1,17,13,4,13,,,,,47065,Sergio Agüero - 5,Willy Caballero,,Manchester City2017
+2017,Porto,16,13,1761.118408,106,1.375,1.125,0.75,1,1,1,4,10,14,R16,pt Club Crest Porto,8,3,2,3,9,6,3,11,,,,,38794,André Silva - 4,Iker Casillas,,Porto2017
+2017,Napoli,16,14,1801.446289,4,1.375,1.625,1.75,0,0,0,0,1,2,R16,it Club Crest Napoli,8,3,2,3,13,14,-1,11,,,,,40054,Dries Mertens - 5,Pepe Reina,,Napoli2017
+2017,Benfica,16,15,1818.825439,27,1.375,1.375,1.75,0,0,0,3,3,9,R16,pt Club Crest Benfica,8,3,2,3,11,14,-3,11,,,,,51131,Eduardo Salvio - 3,Ederson,,Benfica2017
+2017,Leverkusen,16,16,1784.060791,49,1.25,1.375,1.375,0,1,1,1,6,9,R16,de Club Crest Leverkusen,8,2,4,2,11,11,0,10,,,,,25894,"Kevin Kampl, Kevin Volland... - 1",Bernd Leno,,Leverkusen2017
+2017,FC Copenhagen,32,17,1682.375366,5,1.5,1.166666667,0.333333333,0,0,0,0,1,3,GR,dk Club Crest FC Copenhagen,6,2,3,1,7,2,5,9,,,,,30596,Mathias Jørgensen - 2,Robin Olsen,,FC Copenhagen2017
+2017,Lyon,32,18,1732.154785,57,1.333333333,0.833333333,0.5,0,0,1,4,10,13,GR,fr Club Crest Lyon,6,2,2,2,5,3,2,8,,,,,50028,Corentin Tolisso - 2,Anthony Lopes,,Lyon2017
+2017,Tottenham,32,19,1826.258911,7,1.166666667,1,1,0,0,0,1,1,1,GR,eng Club Crest Tottenham,6,2,1,3,6,6,0,7,,,,,77519,Harry Kane - 2,Hugo Lloris,,Tottenham2017
+2017,Be?ikta?,32,20,1679.397827,4,1.166666667,1.5,2.333333333,0,0,0,0,0,4,GR,tr Club Crest Be?ikta?,6,1,4,1,9,14,-5,7,,,,,35184,"Vincent Aboubakar, Ricardo Quaresma - 3",Tolga Zengin,,Be?ikta?2017
+2017,Dynamo Kyiv,32,21,1731.588379,16,0.833333333,1.333333333,1,0,0,0,0,2,12,GR,ua Club Crest Dynamo Kyiv,6,1,2,3,8,6,2,5,,,,,25055,"Derlis González, Vitaliy Buyalskyi... - 1",Artur Rudko,,Dynamo Kyiv2017
+2017,Rostov,32,22,1675.062134,0,0.833333333,1,2,0,0,0,0,0,0,GR,ru Club Crest Rostov,6,1,2,3,6,12,-6,5,,,,,14419,Dmitry Poloz - 3,Soslan Dzhanayev,,Rostov2017
+2017,M'Gladbach,32,23,1710.693359,1,0.833333333,0.833333333,2,0,0,0,0,0,1,GR,de Club Crest M'Gladbach,6,1,2,3,5,12,-7,5,,,,,46162,Lars Stindl - 2,Yann Sommer,,M'Gladbach2017
+2017,Legia Warsaw,32,24,1532.50061,0,0.666666667,1.5,4,0,0,0,0,0,0,GR,pl Club Crest Legia Warsaw,6,1,1,4,9,24,-15,4,,,,,18512,"Aleksandar Prijovi?, Miroslav Radovi? - 2",Arkadiusz Malarz,,Legia Warsaw2017
+2017,Sporting CP,32,25,1697.539917,7,0.5,0.833333333,1.333333333,0,0,0,0,1,5,GR,pt Club Crest Sporting CP,6,1,0,5,5,8,-3,3,,,,,45583,Bruno César - 2,Rui Patrício,,Sporting CP2017
+2017,CSKA Moscow,32,26,1695.483765,16,0.5,0.833333333,1.833333333,0,0,0,1,2,8,GR,ru Club Crest CSKA Moscow,6,0,3,3,5,11,-6,3,,,,,23147,Alan Dzagoev - 2,Igor Akinfeev,,CSKA Moscow2017
+2017,Ludogorets,32,27,1540.83313,1,0.5,1,2.5,0,0,0,0,0,1,GR,bg Club Crest Ludogorets,6,0,3,3,6,15,-9,3,,,,,22946,Jonathan Cafu - 2,Vladislav Stoyanov,,Ludogorets2017
+2017,Celtic,32,28,1602.249756,14,0.5,0.833333333,2.666666667,0,0,0,0,3,8,GR,sct Club Crest Celtic,6,0,3,3,5,16,-11,3,,,,,57781,Moussa Dembélé - 3,Craig Gordon,,Celtic2017
+2017,PSV,32,29,1694.911133,35,0.333333333,0.666666667,1.833333333,0,0,1,2,4,11,GR,nl Club Crest PSV Eindhoven,6,0,2,4,4,11,-7,2,,,,,34130,"Davy Pröpper, Luuk de Jong... - 1",Jeroen Zoet,,PSV2017
+2017,Basel,32,30,1677.073608,12,0.333333333,0.5,2,0,0,0,0,3,6,GR,ch Club Crest Basel,6,0,2,4,3,12,-9,2,,,,,33830,"Seydou Doumbia, Renato Steffen... - 1",Tomáš Vaclík,,Basel2017
+2017,Club Brugge,32,31,1643.267944,3,0,0.333333333,2.333333333,0,0,0,0,0,3,GR,be Club Crest Club Brugge,6,0,0,6,2,14,-12,0,,,,,21092,"Jelle Vossen, José Izquierdo - 1",Ludovic Butelle,,Club Brugge2017
+2017,Dinamo Zagreb,32,32,1598,3,0,0,2.5,0,0,0,0,0,3,GR,hr Club Crest Dinamo Zagreb,6,0,0,6,0,15,-15,0,,,,,12577,,Dominik Livakovi?,,Dinamo Zagreb2017
+2016,Real Madrid,1,1,2019.369385,304,2.307692308,2.153846154,0.461538462,3,3,9,10,16,16,W,es Club Crest Real Madrid,13,9,3,1,28,6,22,30,,,,,72831,Cristiano Ronaldo - 16,Keylor Navas,? Champions League via playoff win,Real Madrid2016
+2016,Atlético Madrid,2,2,1936.069824,42,1.692307692,1.307692308,0.615384615,0,1,1,2,3,4,F,es Club Crest Atlético Madrid,13,6,4,3,17,8,9,22,,,,,44276,Antoine Griezmann - 7,Jan Oblak,,Atlético Madrid2016
+2016,Bayern Munich,4,3,2001.886597,271,2.166666667,2.5,0.916666667,2,4,7,11,14,15,SF,de Club Crest Bayern Munich,12,8,2,2,30,11,19,26,,,,,70000,Robert Lewandowski - 9,Manuel Neuer,,Bayern Munich2016
+2016,Manchester City,4,4,1863.853638,8,1.75,1.5,1,0,0,0,0,2,4,SF,eng Club Crest Manchester City,12,6,3,3,18,12,6,21,,,,,47779,"Kevin De Bruyne, Raheem Sterling - 3",Joe Hart,,Manchester City2016
+2016,Barcelona,8,5,2055.53833,363,2.3,2.2,0.8,4,4,10,12,14,15,QF,es Club Crest Barcelona,10,7,2,1,22,8,14,23,,,,,74651,Luis Suárez - 8,Marc-André ter Stegen,,Barcelona2016
+2016,Wolfsburg,8,6,1784.711304,1,2.1,1.5,1.1,0,0,0,0,0,1,QF,de Club Crest Wolfsburg,10,7,0,3,15,11,4,21,,,,,23951,Julian Draxler - 3,Diego Benaglio,,Wolfsburg2016
+2016,Paris S-G,8,7,1917.649414,25,2,1.8,0.6,0,0,0,3,4,5,QF,fr Club Crest Paris S-G,10,6,2,2,18,6,12,20,,,,,46322,Zlatan Ibrahimovi? - 5,Kevin Trapp,,Paris S-G2016
+2016,Benfica,8,8,1783.879883,20,1.7,1.5,1.2,0,0,0,2,2,8,QF,pt Club Crest Benfica,10,5,2,3,15,12,3,17,,,,,45581,Nicolás Gaitán - 4,Júlio César,,Benfica2016
+2016,Zenit,16,9,1755.512573,9,1.875,1.75,1.125,0,0,0,0,2,5,R16,ru Club Crest Zenit,8,5,0,3,14,9,5,15,,,,,17575,Artem Dzyuba - 6,Yuri Lodygin,,Zenit2016
+2016,Chelsea,16,10,1797.782104,193,1.625,1.875,0.875,1,2,7,9,12,13,R16,eng Club Crest Chelsea,8,4,1,3,15,7,8,13,,,,,40153,Willian - 5,Asmir Begovi?,,Chelsea2016
+2016,Dynamo Kyiv,16,11,1775.72583,13,1.5,1.125,0.875,0,0,0,0,1,11,R16,ua Club Crest Dynamo Kyiv,8,3,3,2,9,7,2,12,,,,,41706,"Andriy Yarmolenko, Vitaliy Buyalskyi - 2",Oleksandr Shovkovskiy,,Dynamo Kyiv2016
+2016,Juventus,16,12,1914.154785,95,1.5,1.25,1.125,0,2,2,5,8,11,R16,it Club Crest Juventus,8,3,3,2,10,9,1,12,,,,,39241,"Álvaro Morata, Mario Mandžuki? - 2",Gianluigi Buffon,,Juventus2016
+2016,PSV,16,13,1693.302612,32,1.5,1,0.875,0,0,1,2,3,10,R16,nl Club Crest PSV Eindhoven,8,3,3,2,8,7,1,12,,,,,34810,"Luuk de Jong, Maxime Lestienne - 2",Jeroen Zoet,,PSV2016
+2016,Gent,16,14,1629.700806,0,1.25,1.25,1.375,0,0,0,0,0,0,R16,be Club Crest Gent,8,3,1,4,10,11,-1,10,,,,,19752,Danijel Mili?evi? - 3,Matz Sels,,Gent2016
+2016,Arsenal,16,15,1846.943604,102,1.125,1.625,1.875,0,1,2,6,15,16,R16,eng Club Crest Arsenal,8,3,0,5,13,15,-2,9,,,,,57029,Olivier Giroud - 5,Petr ?ech,,Arsenal2016
+2016,Roma,16,16,1762.846558,28,0.75,1.375,2.5,0,0,0,2,6,8,R16,it Club Crest Roma,8,1,3,4,11,20,-9,6,,,,,45324,"Miralem Pjani?, Edin Džeko... - 2",Wojciech Szcz?sny,,Roma2016
+2016,Manchester Utd,32,17,1780.956909,201,1.75,1.75,1,1,3,5,10,13,15,GR,eng Club Crest Manchester Utd,8,4,2,2,14,8,6,14,,,,,75099,Anthony Martial - 2,David de Gea,,Manchester Utd2016
+2016,Porto,32,18,1798.431152,105,1.666666667,1.5,1.333333333,1,1,1,4,10,13,GR,pt Club Crest Porto,6,3,1,2,9,8,1,10,,,,,37516,Vincent Aboubakar - 3,Iker Casillas,,Porto2016
+2016,Olympiacos,32,19,1716.415283,20,1.5,1,2.166666667,0,0,0,0,3,14,GR,gr Club Crest Olympiacos,6,3,0,3,6,13,-7,9,,,,,31516,Felipe Pardo - 3,Roberto,,Olympiacos2016
+2016,BATE Borisov,32,20,1576.557251,4,1.333333333,0.916666667,1.333333333,0,0,0,0,0,4,GR,by Club Crest BATE Borisov,12,4,4,4,11,16,-5,16,,,,,12814,Filip Mladenovi? - 2,Sergei Chernik,,BATE Borisov2016
+2016,FC Astana,32,21,1436.616089,0,1.25,1.166666667,1.416666667,0,0,0,0,0,0,GR,kz Club Crest FC Astana,12,3,6,3,14,17,-3,15,,,,,23861,Patrick Twumasi - 2,Nenad Eri?,,FC Astana2016
+2016,Dinamo Zagreb,32,22,1573,2,1.25,1.416666667,1.75,0,0,0,0,0,2,GR,hr Club Crest Dinamo Zagreb,12,4,3,5,17,21,-4,15,,,,,17066,"Junior Fernándes, Josip Pivari?... - 1",Eduardo Carvalho,,Dinamo Zagreb2016
+2016,Leverkusen,32,23,1799.527954,48,1.125,2,1.625,0,1,1,1,6,8,GR,de Club Crest Leverkusen,8,2,3,3,16,13,3,9,,,,,27701,Javier Hernández - 5,Bernd Leno,,Leverkusen2016
+2016,Valencia,32,24,1795.024536,85,1.125,1.125,1.5,0,2,2,4,6,9,GR,es Club Crest Valencia,8,3,0,5,9,12,-3,9,,,,,32902,"João Cancelo, Sofiane Feghouli... - 1",Jaume Doménech,,Valencia2016
+2016,CSKA Moscow,32,25,1724.961426,15,1.1,1.4,1.6,0,0,0,1,2,7,GR,ru Club Crest CSKA Moscow,10,3,2,5,14,16,-2,11,,,,,17019,Seydou Doumbia - 3,Igor Akinfeev,,CSKA Moscow2016
+2016,Shakhtar,32,26,1772.935791,20,1.1,1.3,1.6,0,0,0,1,3,10,GR,ua Club Crest Shakhtar,10,3,2,5,13,16,-3,11,,,,,30144,Alex Teixeira - 3,Andriy Pyatov,,Shakhtar2016
+2016,Malmö,32,27,1532.45105,1,1.083333333,0.75,2.166666667,0,0,0,0,0,1,GR,se Club Crest Malmö,12,4,1,7,9,26,-17,13,,,,,20500,Markus Rosenberg - 1,Johan Wiland,,Malmö2016
+2016,Sevilla,32,28,1837.183716,6,1,1.333333333,1.833333333,0,0,0,0,2,2,GR,es Club Crest Sevilla,6,2,0,4,8,11,-3,6,,,,,37267,"Yevhen Konoplyanka, Éver Banega - 2",Sergio Rico,,Sevilla2016
+2016,M'Gladbach,32,29,1794.851074,0,0.833333333,1.333333333,2,0,0,0,0,0,0,GR,de Club Crest M'Gladbach,6,1,2,3,8,12,-4,5,,,,,45870,Lars Stindl - 3,Yann Sommer,,M'Gladbach2016
+2016,Galatasaray,32,30,1619.192749,25,0.833333333,1,1.666666667,0,0,0,2,4,9,GR,tr Club Crest Galatasaray,6,1,2,3,6,10,-4,5,,,,,31182,"Lukas Podolski, Selçuk ?nan - 2",Fernando Muslera,,Galatasaray2016
+2016,Maccabi Tel Aviv,32,31,1495.271362,1,0.666666667,1.083333333,2,0,0,0,0,0,1,GR,il Club Crest Maccabi Tel Aviv,12,2,2,8,13,24,-11,8,,,,,27622,Eran Zahavi - 1,Predrag Rajkovi?,,Maccabi Tel Aviv2016
+2016,Lyon,32,32,1655.390991,56,0.666666667,0.833333333,1.5,0,0,1,4,10,12,GR,fr Club Crest Lyon,6,1,1,4,5,9,-4,4,,,,,31304,Alexandre Lacazette - 2,Anthony Lopes,,Lyon2016
+2015,Barcelona,1,1,2018.157349,300,2.538461538,2.384615385,0.846153846,3,3,9,11,13,14,W,es Club Crest Barcelona,13,11,0,2,31,11,20,33,,,,,89813,"Lionel Messi, Neymar - 10",Marc-André ter Stegen,? Champions League via playoff win,Barcelona2015
+2015,Juventus,2,2,1891.610352,64,1.846153846,1.307692308,0.769230769,0,1,1,4,7,10,F,it Club Crest Juventus,13,7,3,3,17,10,7,24,,,,,35985,Carlos Tevez - 7,Gianluigi Buffon,,Juventus2015
+2015,Real Madrid,4,3,2086.312012,289,2.166666667,2,0.75,3,3,8,9,15,15,SF,es Club Crest Real Madrid,12,8,2,2,24,9,15,26,,,,,71579,Cristiano Ronaldo - 10,Iker Casillas,,Real Madrid2015
+2015,Bayern Munich,4,4,2060.945801,256,2.083333333,2.75,1.083333333,2,4,6,10,13,14,SF,de Club Crest Bayern Munich,12,8,1,3,33,13,20,25,,,,,69000,Thomas Müller - 7,Manuel Neuer,,Bayern Munich2015
+2015,Porto,8,5,1800.625122,98,2.25,2.333333333,1,1,1,1,3,9,12,QF,pt Club Crest Porto,12,8,3,1,28,12,16,27,,,,,35865,Jackson Martínez - 7,Fabiano,,Porto2015
+2015,Atlético Madrid,8,6,1961.057739,35,1.7,1.5,0.5,0,1,1,1,2,3,QF,es Club Crest Atlético Madrid,10,5,2,3,15,5,10,17,,,,,43954,Mario Mandžuki? - 5,Miguel Ángel Moyá,,Atlético Madrid2015
+2015,Monaco,8,7,1730.656372,35,1.5,0.7,0.5,0,1,1,1,2,3,QF,fr Club Crest Monaco,10,4,3,3,7,5,2,15,,,,,13275,"Aymen Abdennour, Dimitar Berbatov... - 1",Danijel Subaši?,,Monaco2015
+2015,Paris S-G,8,8,1848.323242,18,1.5,1.4,1.5,0,0,0,2,3,4,QF,fr Club Crest Paris S-G,10,4,3,3,14,15,-1,15,,,,,46077,Edinson Cavani - 6,Salvatore Sirigu,,Paris S-G2015
+2015,Arsenal,16,9,1857.137939,99,2,1.9,1.1,0,1,2,6,14,15,R16,eng Club Crest Arsenal,10,6,2,2,19,11,8,20,,,,,59861,"Danny Welbeck, Alexis Sánchez... - 3",Wojciech Szcz?sny,,Arsenal2015
+2015,Chelsea,16,10,1949.939941,190,2,2.5,0.75,1,2,7,9,11,12,R16,eng Club Crest Chelsea,8,4,4,0,20,6,14,16,,,,,39851,Eden Hazard - 3,Thibaut Courtois,,Chelsea2015
+2015,Leverkusen,16,11,1800.932251,45,1.9,1.5,0.7,0,1,1,1,5,7,R16,de Club Crest Leverkusen,10,6,1,3,15,7,8,19,,,,,26941,Son Heung-min - 3,Bernd Leno,,Leverkusen2015
+2015,Dortmund,16,12,1800.736694,44,1.625,1.875,1.125,0,1,1,2,3,6,R16,de Club Crest Dortmund,8,4,1,3,15,9,6,13,,,,,65851,Ciro Immobile - 4,Roman Weidenfeller,,Dortmund2015
+2015,Schalke 04,16,13,1770.2948,30,1.375,1.625,2.375,0,0,1,2,4,6,R16,de Club Crest Schalke 04,8,3,2,3,13,19,-6,11,,,,,51706,Klaas-Jan Huntelaar - 5,Ralf Fährmann,,Schalke 042015
+2015,Shakhtar,16,14,1743.248291,17,1.25,1.875,1.375,0,0,0,1,2,9,R16,ua Club Crest Shakhtar,8,2,4,2,15,11,4,10,,,,,32516,Luiz Adriano - 9,Andriy Pyatov,,Shakhtar2015
+2015,Manchester City,16,15,1945.553833,5,1,1.25,1.375,0,0,0,0,1,3,R16,eng Club Crest Manchester City,8,2,2,4,10,11,-1,8,,,,,43060,Sergio Agüero - 6,Joe Hart,,Manchester City2015
+2015,Basel,16,16,1724.281616,9,1,1,1.625,0,0,0,0,2,5,R16,ch Club Crest Basel,8,2,2,4,8,13,-5,8,,,,,35434,Derlis González - 3,Tomáš Vaclík,,Basel2015
+2015,Zenit,32,17,1764.810059,8,1.6,1.1,0.7,0,0,0,0,2,4,GR,ru Club Crest Zenit,10,5,1,4,11,7,4,16,,,,,14983,"Danny, Hulk... - 1",Yuri Lodygin,,Zenit2015
+2015,Olympiacos,32,18,1694.085083,19,1.5,1.666666667,2.166666667,0,0,0,0,3,13,GR,gr Club Crest Olympiacos,6,3,0,3,10,13,-3,9,,,,,30306,"Ibrahim Afellay, Kostas Mitroglou - 2",Roberto,,Olympiacos2015
+2015,Athletic Club,32,19,1777.577271,0,1.375,1.125,1,0,0,0,0,0,0,GR,es Club Crest Athletic Club,8,3,2,3,9,8,1,11,,,,,46031,Mikel San José - 2,Gorka Iraizoz,,Athletic Club2015
+2015,NK Maribor,32,20,1476.374756,1,1.25,0.916666667,1.333333333,0,0,0,0,0,1,GR,si Club Crest NK Maribor,12,3,6,3,11,16,-5,15,,,,,12554,"Damjan Bohar, Agim Ibraimi... - 1",Jasmin Handanovi?,,NK Maribor2015
+2015,Sporting CP,32,21,1676.993774,6,1.166666667,2,2,0,0,0,0,1,4,GR,pt Club Crest Sporting CP,6,2,1,3,12,12,0,7,,,,,36315,Nani - 4,Rui Patrício,,Sporting CP2015
+2015,Ludogorets,32,22,1556.511353,0,1.083333333,1.083333333,1.5,0,0,0,0,0,0,GR,bg Club Crest Ludogorets,12,3,4,5,13,18,-5,13,,,,,35925,Dani Abalo - 2,Vladislav Stoyanov,,Ludogorets2015
+2015,Malmö,32,23,1547.628662,0,1.083333333,1.083333333,1.75,0,0,0,0,0,0,GR,se Club Crest Malmö,12,4,1,7,13,21,-8,13,,,,,20500,Markus Rosenberg - 3,Robin Olsen,,Malmö2015
+2015,BATE Borisov,32,24,1524.564575,3,1,0.833333333,2.333333333,0,0,0,0,0,3,GR,by Club Crest BATE Borisov,12,3,3,6,10,28,-18,12,,,,,11382,"Alyaksandr Karnitsky, Dzyanis Palyakow - 1",Sergei Chernik,,BATE Borisov2015
+2015,Anderlecht,32,25,1612.680908,10,1,1.333333333,1.666666667,0,0,0,0,1,8,GR,be Club Crest Anderlecht,6,1,3,2,8,10,-2,6,,,,,19462,"Aleksandar Mitrovi?, Chancel Mbemba... - 2",Silvio Proto,,Anderlecht2015
+2015,APOEL FC,32,26,1543.672607,8,0.9,1,1.5,0,0,0,1,1,2,GR,cy Club Crest APOEL FC,10,2,3,5,10,15,-5,9,,,,,18825,Gustavo Manduca - 1,Urko Pardo,,APOEL FC2015
+2015,Ajax,32,27,1684.756958,16,0.833333333,1.333333333,1.666666667,0,0,0,1,2,8,GR,nl Club Crest Ajax,6,1,2,3,8,10,-2,5,,,,,51447,Lasse Schöne - 3,Jasper Cillessen,,Ajax2015
+2015,Liverpool,32,28,1802.874878,128,0.833333333,0.833333333,1.5,1,2,3,5,6,8,GR,eng Club Crest Liverpool,6,1,2,3,5,9,-4,5,,,,,43372,Steven Gerrard - 2,Simon Mignolet,,Liverpool2015
+2015,Benfica,32,29,1837.531372,19,0.833333333,0.333333333,1,0,0,0,2,2,7,GR,pt Club Crest Benfica,6,1,2,3,2,6,-4,5,,,,,28474,"Eduardo Salvio, Talisca - 1",Júlio César,,Benfica2015
+2015,Roma,32,30,1774.892822,27,0.833333333,1.333333333,2.333333333,0,0,0,2,6,7,GR,it Club Crest Roma,6,1,2,3,8,14,-6,5,,,,,55183,Gervinho - 3,Morgan De Sanctis,,Roma2015
+2015,CSKA Moscow,32,31,1728.723755,14,0.833333333,1,2.166666667,0,0,0,1,2,6,GR,ru Club Crest CSKA Moscow,6,1,2,3,6,13,-7,5,,,,,28500,Seydou Doumbia - 3,Igor Akinfeev,,CSKA Moscow2015
+2015,Galatasaray,32,32,1635.930176,24,0.166666667,0.666666667,3.166666667,0,0,0,2,4,8,GR,tr Club Crest Galatasaray,6,0,1,5,4,19,-15,1,,,,,28489,Burak Y?lmaz - 2,Fernando Muslera,,Galatasaray2015
+2014,Real Madrid,1,1,2026.980957,226,2.461538462,3.153846154,0.769230769,2,2,7,8,14,14,W,es Club Crest Real Madrid,13,10,2,1,41,10,31,32,,,,,78426,Cristiano Ronaldo - 17,Iker Casillas,? Champions League via playoff win,Real Madrid2014
+2014,Atlético Madrid,2,2,1927.821655,4,2,2,0.769230769,0,0,0,0,1,2,F,es Club Crest Atlético Madrid,13,7,5,1,26,10,16,26,,,,,43994,Diego Costa - 8,Thibaut Courtois,,Atlético Madrid2014
+2014,Bayern Munich,4,3,2082.975342,241,1.833333333,2,1.083333333,2,4,5,9,12,13,SF,de Club Crest Bayern Munich,12,6,4,2,24,13,11,22,,,,,67883,Thomas Müller - 5,Manuel Neuer,,Bayern Munich2014
+2014,Chelsea,4,4,1910.436523,175,1.416666667,1.583333333,0.833333333,1,2,6,8,10,11,SF,eng Club Crest Chelsea,12,4,5,3,19,10,9,17,,,,,39531,Fernando Torres - 4,Petr ?ech,,Chelsea2014
+2014,Paris S-G,8,5,1832.590576,11,2,2.5,0.9,0,0,0,1,2,3,QF,fr Club Crest Paris S-G,10,6,2,2,25,9,16,20,,,,,44680,Zlatan Ibrahimovi? - 10,Salvatore Sirigu,,Paris S-G2014
+2014,Barcelona,8,6,2040.85791,293,1.8,2.1,0.8,3,3,9,10,12,13,QF,es Club Crest Barcelona,10,5,3,2,21,8,13,18,,,,,76033,Lionel Messi - 8,Víctor Valdés,,Barcelona2014
+2014,Manchester Utd,8,7,1922.740845,194,1.8,1.7,0.9,1,3,5,9,12,14,QF,eng Club Crest Manchester Utd,10,5,3,2,17,9,8,18,,,,,74594,Robin van Persie - 4,David de Gea,,Manchester Utd2014
+2014,Dortmund,8,8,1900.893921,37,1.7,1.8,1.3,0,1,1,1,2,5,QF,de Club Crest Dortmund,10,5,2,3,18,13,5,17,,,,,65829,Robert Lewandowski - 6,Roman Weidenfeller,,Dortmund2014
+2014,Manchester City,16,9,1943.7771,2,1.875,2.375,1.75,0,0,0,0,0,2,R16,eng Club Crest Manchester City,8,5,0,3,19,14,5,15,,,,,43372,Sergio Agüero - 6,Joe Hart,,Manchester City2014
+2014,Arsenal,16,10,1897.619141,96,1.7,1.4,0.8,0,1,2,6,13,14,R16,eng Club Crest Arsenal,10,5,2,3,14,8,6,17,,,,,59864,"Olivier Giroud, Jack Wilshere... - 2",Wojciech Szcz?sny,,Arsenal2014
+2014,Olympiacos,16,11,1762.245972,16,1.625,1.5,1.375,0,0,0,0,2,12,R16,gr Club Crest Olympiacos,8,4,1,3,12,11,1,13,,,,,30632,"Kostas Mitroglou, Chori Domínguez - 3",Roberto,,Olympiacos2014
+2014,Zenit,16,12,1741.041748,5,1.416666667,1.916666667,1.416666667,0,0,0,0,1,3,R16,ru Club Crest Zenit,12,4,5,3,23,17,6,17,,,,,17542,Hulk - 4,Yuri Lodygin,,Zenit2014
+2014,Schalke 04,16,13,1788.521118,27,1.4,1.2,1.8,0,0,1,2,3,5,R16,de Club Crest Schalke 04,10,4,2,4,12,18,-6,14,,,,,53973,Julian Draxler - 3,"Ralf Fährmann, Timo Hildebrand",,Schalke 042014
+2014,Leverkusen,16,14,1844.671753,42,1.25,1.25,2,0,1,1,1,4,6,R16,de Club Crest Leverkusen,8,3,1,4,10,16,-6,10,,,,,27867,Simon Rolfes - 3,Bernd Leno,,Leverkusen2014
+2014,Milan,16,15,1744.451294,202,1.1,1.3,1.1,2,3,4,6,11,12,R16,it Club Crest Milan,10,2,5,3,13,11,2,11,,,,,64186,"Kaká, Mario Balotelli - 2",Christian Abbiati,,Milan2014
+2014,Galatasaray,16,16,1716.258179,21,1,1.125,2.125,0,0,0,2,3,7,R16,tr Club Crest Galatasaray,8,2,2,4,9,17,-8,8,,,,,44710,Umut Bulut - 3,Fernando Muslera,,Galatasaray2014
+2014,Napoli,32,17,1786.616455,3,2,1.666666667,1.5,0,0,0,0,1,1,GR,it Club Crest Napoli,6,4,0,2,10,9,1,12,,,,,42980,Gonzalo Higuaín - 4,Pepe Reina,,Napoli2014
+2014,Benfica,32,18,1810.861694,18,1.666666667,1.333333333,1.333333333,0,0,0,2,2,6,GR,pt Club Crest Benfica,6,3,1,2,8,8,0,10,,,,,30847,"Filip ?uri?i?, Nicolás Gaitán... - 1",Artur Moraes,,Benfica2014
+2014,Basel,32,19,1684.710083,8,1.6,1.5,1.1,0,0,0,0,2,4,GR,ch Club Crest Basel,10,4,4,2,15,11,4,16,,,,,33054,Mohamed Salah - 2,Yann Sommer,,Basel2014
+2014,Viktoria Plze?,32,20,1690.565308,1,1.583333333,2.166666667,2,0,0,0,0,0,1,GR,cz Club Crest Viktoria Plze?,12,6,1,5,26,24,2,19,,,,,10880,"Daniel Kolá?, Marek Bakoš... - 1",Matúš Kozá?ik,,Viktoria Plze?2014
+2014,Shakhtar,32,21,1801.782837,16,1.333333333,1.166666667,1,0,0,0,1,2,8,GR,ua Club Crest Shakhtar,6,2,2,2,7,6,1,8,,,,,48672,Alex Teixeira - 3,Andriy Pyatov,,Shakhtar2014
+2014,Ajax,32,22,1707.127563,15,1.333333333,0.833333333,1.333333333,0,0,0,1,2,7,GR,nl Club Crest Ajax,6,2,2,2,5,8,-3,8,,,,,54866,Lasse Schöne - 2,Jasper Cillessen,,Ajax2014
+2014,Austria Wien,32,23,1582.973511,0,1.3,1,1.3,0,0,0,0,0,0,GR,at Club Crest Austria Wien,10,3,4,3,10,13,-3,13,,,,,40225,"Roman Kienast, Philipp Hosiner - 2",Heinz Lindner,,Austria Wien2014
+2014,Steaua,32,24,1645.636963,3,1.25,1.083333333,1.25,0,0,0,0,0,3,GR,ro Club Crest Steaua,12,3,6,3,13,15,-2,15,,,,,37081,"Federico Piovaccari, Leandro Tatu - 1",Ciprian T?t?ru?anu,,Steaua2014
+2014,Celtic,32,25,1602.430542,13,1,1,1.333333333,0,0,0,0,3,7,GR,sct Club Crest Celtic,12,3,3,6,12,16,-4,12,,,,,58488,"Beram Kayal, James Forrest... - 1",Fraser Forster,,Celtic2014
+2014,Juventus,32,26,1865.942017,63,1,1.5,1.5,0,1,1,4,7,9,GR,it Club Crest Juventus,6,1,3,2,9,9,0,6,,,,,36469,Arturo Vidal - 5,Gianluigi Buffon,,Juventus2014
+2014,Porto,32,27,1807.923828,97,0.833333333,0.666666667,1.166666667,1,1,1,3,9,11,GR,pt Club Crest Porto,6,1,2,3,4,7,-3,5,,,,,29969,"Lucho González, Jackson Martínez - 2",Helton Arruda,,Porto2014
+2014,FC Copenhagen,32,28,1552.105713,4,0.666666667,0.666666667,2.166666667,0,0,0,0,1,2,GR,dk Club Crest FC Copenhagen,6,1,1,4,4,13,-9,4,,,,,36656,"Nicolai Jørgensen, Daniel Braaten... - 1",Johan Wiland,,FC Copenhagen2014
+2014,Real Sociedad,32,29,1791.424927,3,0.625,0.625,1.25,0,0,0,0,1,1,GR,es Club Crest Real Sociedad,8,1,2,5,5,10,-5,5,,,,,28300,Carlos Vela - 1,Claudio Bravo,,Real Sociedad2014
+2014,CSKA Moscow,32,30,1666.192017,13,0.5,1.333333333,2.833333333,0,0,0,1,2,5,GR,ru Club Crest CSKA Moscow,6,1,0,5,8,17,-9,3,,,,,11333,"Keisuke Honda, Seydou Doumbia... - 2",Igor Akinfeev,,CSKA Moscow2014
+2014,Anderlecht,32,31,1602.663452,9,0.166666667,0.666666667,2.833333333,0,0,0,0,1,7,GR,be Club Crest Anderlecht,6,0,1,5,4,17,-13,1,,,,,17054,"Massimo Bruno, Sacha Kljestan... - 1","Thomas Kaminski, Silvio Proto",,Anderlecht2014
+2014,Marseille,32,32,1622.827515,17,0,0.833333333,2.333333333,0,0,0,1,3,7,GR,fr Club Crest Marseille,6,0,0,6,5,14,-9,0,,,,,38275,André Ayew - 2,Steve Mandanda,,Marseille2014
+2013,Bayern Munich,1,1,1965.853394,178,2.461538462,2.384615385,0.846153846,1,3,4,8,11,12,W,de Club Crest Bayern Munich,13,10,2,1,31,11,20,32,,,,,73667,Thomas Müller - 8,Manuel Neuer,? Champions League via playoff win,Bayern Munich2013
+2013,Dortmund,2,2,1935.716309,6,1.615384615,1.846153846,1.076923077,0,0,0,0,1,4,F,de Club Crest Dortmund,13,5,6,2,24,14,10,21,,,,,71239,Robert Lewandowski - 10,Roman Weidenfeller,,Dortmund2013
+2013,Real Madrid,4,3,2031.182007,211,1.583333333,2.166666667,1.5,2,2,6,7,13,13,SF,es Club Crest Real Madrid,12,5,4,3,26,18,8,19,,,,,71313,Cristiano Ronaldo - 12,Diego López,,Real Madrid2013
+2013,Barcelona,4,4,2087.927002,278,1.416666667,1.5,1.416666667,3,3,8,9,11,12,SF,es Club Crest Barcelona,12,4,5,3,18,17,1,17,,,,,81477,Lionel Messi - 8,Víctor Valdés,,Barcelona2013
+2013,Paris S-G,8,5,1807.489746,4,2.1,2,0.8,0,0,0,0,1,2,QF,fr Club Crest Paris S-G,10,6,3,1,20,8,12,21,,,,,43868,Ezequiel Lavezzi - 5,Salvatore Sirigu,,Paris S-G2013
+2013,Juventus,8,6,1835.488281,56,1.7,1.7,0.8,0,1,1,3,6,8,QF,it Club Crest Juventus,10,4,5,1,17,8,9,17,,,,,36047,Fabio Quagliarella - 4,Gianluigi Buffon,,Juventus2013
+2013,Málaga,8,7,1817.273193,0,1.5,1.5,0.75,0,0,0,0,0,0,QF,es Club Crest Málaga,12,4,6,2,18,9,9,18,,,,,25824,Eliseu - 4,Willy Caballero,,Málaga2013
+2013,Galatasaray,8,8,1674.092896,14,1.5,1.4,1.4,0,0,0,1,2,6,QF,tr Club Crest Galatasaray,10,4,3,3,14,14,0,15,,,,,47397,Burak Y?lmaz - 8,Fernando Muslera,,Galatasaray2013
+2013,Porto,16,9,1878.861084,94,2,1.375,0.75,1,1,1,3,8,10,R16,pt Club Crest Porto,8,5,1,2,11,6,5,16,,,,,33909,Jackson Martínez - 3,Helton Arruda,,Porto2013
+2013,Valencia,16,10,1794.847412,82,1.75,1.75,1,0,2,2,4,5,8,R16,es Club Crest Valencia,8,4,2,2,14,8,6,14,,,,,30679,Jonas - 5,Vicente Guaita,,Valencia2013
+2013,Schalke 04,16,11,1789.990479,24,1.75,1.625,1.25,0,0,1,2,2,4,R16,de Club Crest Schalke 04,8,3,5,0,13,10,3,14,,,,,52635,Klaas-Jan Huntelaar - 4,Lars Unnerstall,,Schalke 042013
+2013,Manchester Utd,16,12,1900.38501,191,1.75,1.375,1.125,1,3,5,9,11,13,R16,eng Club Crest Manchester Utd,8,4,2,2,11,9,2,14,,,,,73582,"Javier Hernández, Robin van Persie - 3",David de Gea,,Manchester Utd2013
+2013,Celtic,16,13,1612.90918,10,1.666666667,1.416666667,1.166666667,0,0,0,0,2,6,R16,sct Club Crest Celtic,12,6,2,4,17,14,3,20,,,,,58211,Georgios Samaras - 3,Fraser Forster,,Celtic2013
+2013,Arsenal,16,14,1805.263672,93,1.625,1.625,1.375,0,1,2,6,12,13,R16,eng Club Crest Arsenal,8,4,1,3,13,11,2,13,,,,,59954,Lukas Podolski - 4,Vito Mannone,,Arsenal2013
+2013,Shakhtar,16,15,1854.244141,13,1.375,1.75,1.625,0,0,0,1,1,7,R16,ua Club Crest Shakhtar,8,3,2,3,14,13,1,11,,,,,49101,Willian - 4,Andriy Pyatov,,Shakhtar2013
+2013,Milan,16,16,1747.335815,199,1.375,1.125,1.25,2,3,4,6,10,11,R16,it Club Crest Milan,8,3,2,3,9,10,-1,11,,,,,40981,"Stephan El Shaarawy, Alexandre Pato - 2",Christian Abbiati,,Milan2013
+2013,CFR Cluj,32,17,1592.804321,2,2,1.5,0.9,0,0,0,0,0,2,GR,ro Club Crest CFR Cluj,10,6,2,2,15,9,6,20,,,,,15708,Rui Pedro - 3,Mário Felgueiras,,CFR Cluj2013
+2013,Chelsea,32,18,1837.201172,174,1.666666667,2.666666667,1.666666667,1,2,6,8,10,10,GR,eng Club Crest Chelsea,6,3,1,2,16,10,6,10,,,,,40689,Oscar - 5,Petr ?ech,,Chelsea2013
+2013,BATE Borisov,32,19,1553.940063,2,1.5,1.5,1.583333333,0,0,0,0,0,2,GR,by Club Crest BATE Borisov,12,5,3,4,18,19,-1,18,,,,,25542,"Vitali Rodionov, Renan Bardini Bressan - 2",Andrey Harbunow,,BATE Borisov2013
+2013,Dynamo Kyiv,32,20,1717.246338,12,1.5,1.3,1.4,0,0,0,0,1,10,GR,ua Club Crest Dynamo Kyiv,10,4,3,3,13,14,-1,15,,,,,39634,Oleh Husyev - 2,Maksym Koval,,Dynamo Kyiv2013
+2013,Olympiacos,32,21,1742.221924,15,1.5,1.5,1.5,0,0,0,0,2,11,GR,gr Club Crest Olympiacos,6,3,0,3,9,9,0,9,,,,,29089,Kostas Mitroglou - 4,Roy Carroll,,Olympiacos2013
+2013,Benfica,32,22,1820.601685,17,1.333333333,0.833333333,0.833333333,0,0,0,2,2,5,GR,pt Club Crest Benfica,6,2,2,2,5,5,0,8,,,,,49120,Óscar Cardozo - 2,Artur Moraes,,Benfica2013
+2013,Anderlecht,32,23,1707.82019,8,1.2,1.8,1.1,0,0,0,0,1,6,GR,be Club Crest Anderlecht,10,3,3,4,18,11,7,12,,,,,17317,Dieumerci Mbokani - 2,Silvio Proto,,Anderlecht2013
+2013,Zenit,32,24,1759.464111,4,1.166666667,1,1.5,0,0,0,0,1,2,GR,ru Club Crest Zenit,6,2,1,3,6,9,-3,7,,,,,19361,Danny - 2,Vyacheslav Malafeev,,Zenit2013
+2013,Dinamo Zagreb,32,25,1514,1,1.083333333,1.083333333,1.5,0,0,0,0,0,1,GR,hr Club Crest Dinamo Zagreb,12,3,4,5,13,18,-5,13,,,,,5890,Ivan Krstanovi? - 1,Ivan Kelava,,Dinamo Zagreb2013
+2013,Spartak Moscow,32,26,1656.913208,8,0.875,1.25,2,0,0,0,0,1,6,GR,ru Club Crest Spartak Moscow,8,2,1,5,10,16,-6,7,,,,,50637,Emmanuel Emenike - 2,"Andriy Dykan, Sergei Pesyakov...",,Spartak Moscow2013
+2013,Ajax,32,27,1721.102661,14,0.666666667,1.333333333,2.666666667,0,0,0,1,2,6,GR,nl Club Crest Ajax,6,1,1,4,8,16,-8,4,,,,,47578,Siem de Jong - 3,Kenneth Vermeer,,Ajax2013
+2013,Braga,32,28,1671.534302,1,0.625,1.125,1.875,0,0,0,0,0,1,GR,pt Club Crest Braga,8,1,2,5,9,15,-6,5,,,,,11758,Alan - 5,Beto,,Braga2013
+2013,Lille,32,29,1714.576782,6,0.5,0.75,1.75,0,0,0,0,1,4,GR,fr Club Crest Lille,8,1,1,6,6,14,-8,4,,,,,41139,"Salomon Kalou, Gianni Bruno... - 1",Mickaël Landreau,,Lille2013
+2013,Manchester City,32,30,1867.851318,1,0.5,1.166666667,1.833333333,0,0,0,0,0,1,GR,eng Club Crest Manchester City,6,0,3,3,7,11,-4,3,,,,,43206,Sergio Agüero - 2,Joe Hart,,Manchester City2013
+2013,Montpellier,32,31,1685.344482,0,0.333333333,1,2,0,0,0,0,0,0,GR,fr Club Crest Montpellier,6,0,2,4,6,12,-6,2,,,,,24499,Younès Belhanda - 2,Geoffrey Jourdren,,Montpellier2013
+2013,Nordsjælland,32,32,1488.165405,0,0.166666667,0.666666667,3.666666667,0,0,0,0,0,0,GR,dk Club Crest Nordsjælland,6,0,1,5,4,22,-18,1,,,,,21526,"Joshua John, Mikkel Beckmann... - 1",Jesper Hansen,,Nordsjælland2013
+2012,Chelsea,1,1,1847.198486,111,1.615384615,1.923076923,0.923076923,0,1,5,7,9,9,W,eng Club Crest Chelsea,13,5,6,2,25,12,13,21,,,,,40902,Didier Drogba - 6,Petr ?ech,? Champions League via playoff win,Chelsea2012
+2012,Bayern Munich,2,2,1898.87439,147,1.866666667,1.933333333,0.733333333,1,2,3,7,10,11,F,de Club Crest Bayern Munich,15,8,4,3,29,11,18,28,,,,,71500,Mario Gómez - 12,Manuel Neuer,,Bayern Munich2012
+2012,Real Madrid,4,3,2033.759644,196,2.083333333,2.916666667,0.75,2,2,5,6,12,12,SF,es Club Crest Real Madrid,12,7,4,1,35,9,26,25,,,,,67644,Cristiano Ronaldo - 10,Iker Casillas,,Real Madrid2012
+2012,Barcelona,4,4,2060.631104,263,1.916666667,2.916666667,0.833333333,3,3,7,8,10,11,SF,es Club Crest Barcelona,12,6,5,1,35,10,25,23,,,,,77953,Lionel Messi - 14,Víctor Valdés,,Barcelona2012
+2012,Benfica,8,5,1851.632813,10,1.357142857,1.5,1,0,0,0,1,1,4,QF,pt Club Crest Benfica,14,4,7,3,21,14,7,19,,,,,49431,Óscar Cardozo - 4,Artur Moraes,,Benfica2012
+2012,Milan,8,6,1798.599365,192,1.3,1.6,1.4,2,3,4,5,9,10,QF,it Club Crest Milan,10,3,4,3,16,14,2,13,,,,,70491,Zlatan Ibrahimovi? - 5,Christian Abbiati,,Milan2012
+2012,Marseille,8,7,1772.579224,10,1.3,0.9,1,0,0,0,0,2,6,QF,fr Club Crest Marseille,10,4,1,5,9,10,-1,13,,,,,30824,André Ayew - 4,Steve Mandanda,,Marseille2012
+2012,APOEL FC,8,8,1638.701782,1,1.1875,1.25,1.0625,0,0,0,0,0,1,QF,cy Club Crest APOEL FC,16,4,7,5,20,17,3,19,,,,,22262,Gustavo Manduca - 4,Dionisis Chiotis,,APOEL FC2012
+2012,Arsenal,16,9,1833.470581,90,1.8,1.3,1.1,0,1,2,6,11,12,R16,eng Club Crest Arsenal,10,5,3,2,13,11,2,18,,,,,59785,Robin van Persie - 4,Wojciech Szcz?sny,,Arsenal2012
+2012,Napoli,16,10,1728.299316,0,1.75,1.75,1.375,0,0,0,0,0,0,R16,it Club Crest Napoli,8,4,2,2,14,11,3,14,,,,,54223,Edinson Cavani - 5,Morgan De Sanctis,,Napoli2012
+2012,Basel,16,11,1703.166138,5,1.75,1.5,2.125,0,0,0,0,1,3,R16,ch Club Crest Basel,8,4,2,2,12,17,-5,14,,,,,34489,Alexander Frei - 5,Yann Sommer,,Basel2012
+2012,Lyon,16,12,1757.018433,53,1.5,1.4,1,0,0,1,4,9,11,R16,fr Club Crest Lyon,10,4,3,3,14,10,4,15,,,,,35403,Bafétimbi Gomis - 5,Hugo Lloris,,Lyon2012
+2012,Zenit,16,13,1792.946533,1,1.5,1.25,1.125,0,0,0,0,0,1,R16,ru Club Crest Zenit,8,3,3,2,10,9,1,12,,,,,20628,Roman Shirokov - 5,Vyacheslav Malafeev,,Zenit2012
+2012,Inter,16,14,1748.229126,109,1.375,1.25,1.125,1,1,2,5,8,9,R16,it Club Crest Inter,8,3,2,3,10,9,1,11,,,,,33668,Giampaolo Pazzini - 3,Júlio César,,Inter2012
+2012,Leverkusen,16,15,1763.230225,39,1.25,1.25,2.25,0,1,1,1,3,5,R16,de Club Crest Leverkusen,8,3,1,4,10,18,-8,10,,,,,27555,Eren Derdiyok - 2,Bernd Leno,,Leverkusen2012
+2012,CSKA Moscow,16,16,1726.625366,10,1.125,1.375,1.625,0,0,0,1,1,4,R16,ru Club Crest CSKA Moscow,8,2,3,3,11,13,-2,9,,,,,35525,Seydou Doumbia - 5,Vladimir Gabulov,,CSKA Moscow2012
+2012,Manchester City,32,17,1894.981323,0,1.666666667,1.5,1,0,0,0,0,0,0,GR,eng Club Crest Manchester City,6,3,1,2,9,6,3,10,,,,,44451,Yaya Touré - 3,Joe Hart,,Manchester City2012
+2012,Manchester Utd,32,18,1922.801392,190,1.5,1.833333333,1.333333333,1,3,5,9,11,12,GR,eng Club Crest Manchester Utd,6,2,3,1,11,8,3,9,,,,,74278,"Wayne Rooney, Danny Welbeck - 2",David de Gea,,Manchester Utd2012
+2012,Olympiacos,32,19,1701.114258,14,1.5,1.333333333,1,0,0,0,0,2,10,GR,gr Club Crest Olympiacos,6,3,0,3,8,6,2,9,,,,,30165,"David Fuster, François Modesto... - 2","Franco Costanzo, Balázs Megyeri",,Olympiacos2012
+2012,Viktoria Plze?,32,20,1568.680908,0,1.416666667,1.833333333,1.333333333,0,0,0,0,0,0,GR,cz Club Crest Viktoria Plze?,12,4,5,3,22,16,6,17,,,,,19847,Marek Bakoš - 2,Marek ?ech,,Viktoria Plze?2012
+2012,Valencia,32,21,1829.114746,81,1.333333333,2,1.166666667,0,2,2,4,5,7,GR,es Club Crest Valencia,6,2,2,2,12,7,5,8,,,,,35308,Roberto Soldado - 5,Diego Alves,,Valencia2012
+2012,Porto,32,22,1919.797363,93,1.333333333,1.166666667,1.166666667,1,1,1,3,8,9,GR,pt Club Crest Porto,6,2,2,2,7,7,0,8,,,,,38545,Hulk - 4,Helton Arruda,,Porto2012
+2012,Ajax,32,23,1736.691406,13,1.333333333,1,1,0,0,0,1,2,5,GR,nl Club Crest Ajax,6,2,2,2,6,6,0,8,,,,,50256,"Christian Eriksen, Derk Boerrigter... - 1",Kenneth Vermeer,,Ajax2012
+2012,Trabzonspor,32,24,1615.087036,0,1,0.5,1,0,0,0,0,0,0,GR,tr Club Crest Trabzonspor,8,1,5,2,4,8,-4,8,,,,,18653,"Halil Alt?ntop, Ond?ej ?el?stka... - 1",Tolga Zengin,,Trabzonspor2012
+2012,Lille,32,25,1765.447754,5,1,1,1,0,0,0,0,1,3,GR,fr Club Crest Lille,6,1,3,2,6,6,0,6,,,,,16215,Moussa Sow - 3,Mickaël Landreau,,Lille2012
+2012,Dinamo Zagreb,32,26,1531,0,0.916666667,1.083333333,2.166666667,0,0,0,0,0,0,GR,hr Club Crest Dinamo Zagreb,12,3,2,7,13,26,-13,11,,,,,23075,"Fatos Be?iraj, Mateo Kova?i?... - 1",Ivan Kelava,,Dinamo Zagreb2012
+2012,BATE Borisov,32,27,1483.300049,1,0.833333333,0.916666667,1.416666667,0,0,0,0,0,1,GR,by Club Crest BATE Borisov,12,1,7,4,11,17,-6,10,,,,,28392,Renan Bardini Bressan - 2,Alyaksandr Hutar,,BATE Borisov2012
+2012,Shakhtar,32,28,1790.678223,12,0.833333333,1,1.333333333,0,0,0,1,1,6,GR,ua Club Crest Shakhtar,6,1,2,3,6,8,-2,5,,,,,46719,Luiz Adriano - 3,Oleksandr Rybka,,Shakhtar2012
+2012,Genk,32,29,1623.561646,1,0.8,0.8,2.1,0,0,0,0,0,1,GR,be Club Crest Genk,10,1,5,4,8,21,-13,8,,,,,21340,Jelle Vossen - 2,László Köteles,,Genk2012
+2012,Dortmund,32,30,1824.807007,5,0.666666667,1,2,0,0,0,0,1,3,GR,de Club Crest Dortmund,6,1,1,4,6,12,-6,4,,,,,65590,"Jakub B?aszczykowski, Shinji Kagawa... - 1",Roman Weidenfeller,,Dortmund2012
+2012,Villarreal,32,31,1678.053833,22,0.125,0.625,1.875,0,0,1,2,2,2,GR,es Club Crest Villarreal,8,0,1,7,5,15,-10,1,,,,,17959,"Cani, Jonathan de Guzmán - 1",Diego López,,Villarreal2012
+2012,O?elul Gala?i,32,32,1470.467041,0,0,0.5,1.833333333,0,0,0,0,0,0,GR,ro Club Crest O?elul Gala?i,6,0,0,6,3,11,-8,0,,,,,13533,"Liviu Antal, Gabriel Giurgiu... - 1",Branko Grahovac,,O?elul Gala?i2012
+2011,Barcelona,1,1,2036.556519,200,2.153846154,2.307692308,0.692307692,2,2,6,7,9,10,W,es Club Crest Barcelona,13,8,4,1,30,9,21,28,,,,,85535,Lionel Messi - 12,Víctor Valdés,? Champions League via playoff win,Barcelona2011
+2011,Manchester Utd,2,2,1949.497559,159,1.846153846,1.461538462,0.538461538,1,2,4,8,10,11,F,eng Club Crest Manchester Utd,13,6,6,1,19,7,12,24,,,,,80325,"Javier Hernández, Wayne Rooney - 4",Edwin van der Sar,,Manchester Utd2011
+2011,Real Madrid,4,3,1973.613403,181,2.083333333,2.083333333,0.5,2,2,4,5,11,11,SF,es Club Crest Real Madrid,12,7,4,1,25,6,19,25,,,,,71583,"Karim Benzema, Cristiano Ronaldo - 6",Iker Casillas,,Real Madrid2011
+2011,Schalke 04,4,4,1786.113647,9,1.583333333,1.833333333,1.166666667,0,0,0,1,1,3,SF,de Club Crest Schalke 04,12,5,4,3,22,14,8,19,,,,,52378,Raúl - 5,Manuel Neuer,,Schalke 042011
+2011,Shakhtar,8,5,1845.0177,5,2,1.9,1.4,0,0,0,0,0,5,QF,ua Club Crest Shakhtar,10,6,2,2,19,14,5,20,,,,,49083,"Eduardo da Silva, Luiz Adriano - 4",Andriy Pyatov,,Shakhtar2011
+2011,Chelsea,8,6,1893.885986,104,1.9,1.7,0.7,0,1,5,6,8,8,QF,eng Club Crest Chelsea,10,6,1,3,17,7,10,19,,,,,39157,Nicolas Anelka - 7,Petr ?ech,,Chelsea2011
+2011,Tottenham,8,7,1821.985352,0,1.416666667,2.083333333,1.583333333,0,0,0,0,0,0,QF,eng Club Crest Tottenham,12,4,5,3,25,19,6,17,,,,,34986,"Gareth Bale, Peter Crouch - 4",Heurelho Gomes,,Tottenham2011
+2011,Inter,8,8,1809.528076,102,1.3,1.8,2.1,1,1,2,4,7,8,QF,it Club Crest Inter,10,4,1,5,18,21,-3,13,,,,,60720,Samuel Eto'o - 8,Júlio César,,Inter2011
+2011,Bayern Munich,16,9,1877.818359,144,2.375,2.375,1.125,1,2,3,7,9,10,R16,de Club Crest Bayern Munich,8,6,1,1,19,9,10,19,,,,,65750,Mario Gómez - 8,"Hans-Jörg Butt, Thomas Kraft",,Bayern Munich2011
+2011,Arsenal,16,10,1871.160889,87,1.875,2.625,1.375,0,1,2,6,10,11,R16,eng Club Crest Arsenal,8,5,0,3,21,11,10,15,,,,,59633,"Cesc Fàbregas, Andrey Arshavin... - 3",?ukasz Fabia?ski,,Arsenal2011
+2011,Marseille,16,11,1801.822266,7,1.625,1.625,0.625,0,0,0,0,1,5,R16,fr Club Crest Marseille,8,4,1,3,13,5,8,13,,,,,52922,André-Pierre Gignac - 3,Steve Mandanda,,Marseille2011
+2011,Valencia,16,12,1808.87085,78,1.5,2.125,1,0,2,2,4,4,6,R16,es Club Crest Valencia,8,3,3,2,17,8,9,12,,,,,32412,Roberto Soldado - 6,César Sánchez,,Valencia2011
+2011,Lyon,16,13,1786.789307,50,1.375,1.5,1.75,0,0,1,4,8,10,R16,fr Club Crest Lyon,8,3,2,3,12,14,-2,11,,,,,36881,Michel Bastos - 3,Hugo Lloris,,Lyon2011
+2011,Roma,16,14,1757.736084,24,1.25,1.5,2.125,0,0,0,2,5,6,R16,it Club Crest Roma,8,3,1,4,12,17,-5,10,,,,,34666,Marco Borriello - 4,Júlio Sérgio,,Roma2011
+2011,FC Copenhagen,16,15,1723.44751,1,1.166666667,1,0.916666667,0,0,0,0,0,1,R16,dk Club Crest FC Copenhagen,12,3,5,4,12,11,1,14,,,,,35102,"Dame N'Doye, Martin Vingaard - 2",Johan Wiland,,FC Copenhagen2011
+2011,Milan,16,16,1770.995361,189,1.125,0.875,1,2,3,4,5,8,9,R16,it Club Crest Milan,8,2,3,3,7,8,-1,9,,,,,60110,Zlatan Ibrahimovi? - 4,Christian Abbiati,,Milan2011
+2011,Braga,32,17,1679.90686,0,1.8,1.4,1.6,0,0,0,0,0,0,GR,pt Club Crest Braga,10,6,0,4,14,16,-2,18,,,,,13754,Matheus Leite Nascimento - 3,Felipe,,Braga2011
+2011,Basel,32,18,1626.084961,4,1.6,1.7,1.2,0,0,0,0,1,2,GR,ch Club Crest Basel,10,5,1,4,17,12,5,16,,,,,36746,Alexander Frei - 3,Franco Costanzo,,Basel2011
+2011,Spartak Moscow,32,19,1665.62561,7,1.5,1.166666667,1.666666667,0,0,0,0,1,5,GR,ru Club Crest Spartak Moscow,6,3,0,3,7,10,-3,9,,,,,51739,"Ari, Ibson - 2",Andriy Dykan,,Spartak Moscow2011
+2011,Hapoel Tel Aviv,32,20,1630.311646,0,1.333333333,1.666666667,1.25,0,0,0,0,0,0,GR,il Club Crest Hapoel Tel Aviv,12,4,4,4,20,15,5,16,,,,,12711,Eran Zahavi - 3,Vincent Enyeama,,Hapoel Tel Aviv2011
+2011,Partizan,32,21,1530.879517,1,1.166666667,1.25,1.583333333,0,0,0,0,0,1,GR,rs Club Crest Partizan,12,4,2,6,15,19,-4,14,,,,,24595,Cléo - 2,Vladimir Stojkovi?,,Partizan2011
+2011,Ajax,32,22,1733.472046,12,1.1,1.3,1.6,0,0,0,1,2,4,GR,nl Club Crest Ajax,10,2,5,3,13,16,-3,11,,,,,47581,"Toby Alderweireld, Demy de Zeeuw - 2",Maarten Stekelenburg,,Ajax2011
+2011,Werder Bremen,32,23,1737.076538,9,1,1.375,2,0,0,0,0,2,5,GR,de Club Crest Werder Bremen,8,2,2,4,11,16,-5,8,,,,,30315,Marko Arnautovi? - 2,Tim Wiese,,Werder Bremen2011
+2011,Twente,32,24,1696.59021,0,1,1.5,1.833333333,0,0,0,0,0,0,GR,nl Club Crest Twente,6,1,3,2,9,11,-2,6,,,,,23933,Nacer Chadli - 3,Nikolay Mihaylov,,Twente2011
+2011,Rubin Kazan,32,25,1748.364258,1,1,0.333333333,0.666666667,0,0,0,0,0,1,GR,ru Club Crest Rubin Kazan,6,1,3,2,2,4,-2,6,,,,,19557,Christian Noboa - 2,Sergey Ryzhikov,,Rubin Kazan2011
+2011,Rangers,32,26,1609.480225,8,1,0.5,1,0,0,0,0,1,6,GR,sct Club Crest Rangers,6,1,3,2,3,6,-3,6,,,,,45686,"Maurice Edu, Kenny Miller... - 1",Allan McGregor,,Rangers2011
+2011,Benfica,32,27,1752.770508,9,1,1.166666667,2,0,0,0,1,1,3,GR,pt Club Crest Benfica,6,2,0,4,7,12,-5,6,,,,,28620,"Fábio Coentrão, Luisão - 2",Roberto,,Benfica2011
+2011,CFR Cluj,32,28,1508.59729,1,0.666666667,1,2,0,0,0,0,0,1,GR,ro Club Crest CFR Cluj,6,1,1,4,6,12,-6,4,,,,,10600,"Ionu? Rada, Lacina Traoré - 2","Nuno Claro, Eduard St?ncioiu",,CFR Cluj2011
+2011,MŠK Žilina,32,29,1482.305664,0,0.583333333,1.083333333,1.833333333,0,0,0,0,0,0,GR,sk Club Crest MŠK Žilina,12,1,4,7,13,22,-9,7,,,,,9594,"Bello Babatounde, Tomáš Majtán... - 1",Martin Dúbravka,,MŠK Žilina2011
+2011,Auxerre,32,30,1705.717773,1,0.5,0.625,1.625,0,0,0,0,0,1,GR,fr Club Crest Auxerre,8,1,1,6,5,13,-8,4,,,,,19990,"Valter Birsa, Steeven Langil... - 1",Olivier Sorin,,Auxerre2011
+2011,Panathinaikos,32,31,1648.581543,16,0.333333333,0.333333333,2.166666667,0,0,0,1,3,6,GR,gr Club Crest Panathinaikos,6,0,2,4,2,13,-11,2,,,,,49452,"Cédric Kanté, Sidney Govou - 1",Alexandros Tzorvas,,Panathinaikos2011
+2011,Bursaspor,32,32,1623.212646,0,0.166666667,0.333333333,2.666666667,0,0,0,0,0,0,GR,tr Club Crest Bursaspor,6,0,1,5,2,16,-14,1,,,,,17908,"Pablo Batalla, Sercan Y?ld?r?m - 1",Dimitar Ivankov,,Bursaspor2011
+2010,Inter,1,1,1886.802734,39,2.076923077,1.307692308,0.692307692,0,0,1,3,6,7,W,it Club Crest Inter,13,8,3,2,17,9,8,27,,,,,72347,Diego Milito - 6,Júlio César,? Champions League via playoff win,Inter2010
+2010,Bayern Munich,2,2,1859.880859,113,1.692307692,1.615384615,1.153846154,1,1,2,6,8,9,F,de Club Crest Bayern Munich,13,7,1,5,21,15,6,22,,,,,70850,Ivica Oli? - 7,Hans-Jörg Butt,,Bayern Munich2010
+2010,Lyon,4,3,1773.560791,35,1.928571429,1.785714286,0.857142857,0,0,0,3,7,9,SF,fr Club Crest Lyon,14,8,3,3,25,12,13,27,,,,,39509,Miralem Pjani? - 4,Hugo Lloris,,Lyon2010
+2010,Barcelona,4,4,1989.804199,185,1.333333333,1.666666667,0.833333333,2,2,5,6,8,9,SF,es Club Crest Barcelona,12,3,7,2,20,10,10,16,,,,,82627,Lionel Messi - 8,Víctor Valdés,,Barcelona2010
+2010,Bordeaux,8,5,1868.681396,5,2.1,1.4,0.6,0,0,0,0,1,3,QF,fr Club Crest Bordeaux,10,6,3,1,14,6,8,21,,,,,32540,Marouane Chamakh - 5,Cédric Carrasso,,Bordeaux2010
+2010,Manchester Utd,8,6,1930.65332,152,1.8,2.1,1.2,1,2,4,7,9,10,QF,eng Club Crest Manchester Utd,10,5,3,2,21,12,9,18,,,,,73296,Wayne Rooney - 5,Edwin van der Sar,,Manchester Utd2010
+2010,Arsenal,8,7,1883.653198,80,1.583333333,2.166666667,1.166666667,0,1,2,5,9,10,QF,eng Club Crest Arsenal,12,5,4,3,26,14,12,19,,,,,59905,Nicklas Bendtner - 5,Manuel Almunia,,Arsenal2010
+2010,CSKA Moscow,8,8,1704.268921,3,1.5,1.3,1.4,0,0,0,0,0,3,QF,ru Club Crest CSKA Moscow,10,4,3,3,13,14,-1,15,,,,,35000,Miloš Krasi? - 4,Igor Akinfeev,,CSKA Moscow2010
+2010,Sevilla,16,9,1835.741699,3,1.875,1.625,0.875,0,0,0,0,1,1,R16,es Club Crest Sevilla,8,4,3,1,13,7,6,15,,,,,39375,"Luís Fabiano, Frédéric Kanouté... - 2",Andrés Palop,,Sevilla2010
+2010,Chelsea,16,10,1947.82666,101,1.875,1.5,0.875,0,1,5,6,7,7,R16,eng Club Crest Chelsea,8,4,3,1,12,7,5,15,,,,,39614,"Salomon Kalou, Nicolas Anelka... - 3",Petr ?ech,,Chelsea2010
+2010,Porto,16,11,1834.785645,90,1.875,1.25,1.125,1,1,1,3,7,8,R16,pt Club Crest Porto,8,5,0,3,10,9,1,15,,,,,36987,Radamel Falcao - 4,Helton Arruda,,Porto2010
+2010,Fiorentina,16,12,1767.315796,4,1.8,2.1,1.4,0,0,0,0,1,2,R16,it Club Crest Fiorentina,10,5,3,2,21,14,7,18,,,,,34547,Stevan Joveti? - 4,Sébastien Frey,,Fiorentina2010
+2010,Real Madrid,16,13,1904.695679,178,1.75,2,1.125,2,2,4,5,10,10,R16,es Club Crest Real Madrid,8,4,2,2,16,9,7,14,,,,,75800,Cristiano Ronaldo - 7,Iker Casillas,,Real Madrid2010
+2010,Olympiacos,16,14,1682.735107,11,1.5,1,0.666666667,0,0,0,0,1,9,R16,gr Club Crest Olympiacos,12,5,3,4,12,8,4,18,,,,,30355,Kostas Mitroglou - 2,Antonios Nikopolidis,,Olympiacos2010
+2010,Stuttgart,16,15,1714.120728,4,1.4,1.2,1.2,0,0,0,0,1,2,R16,de Club Crest Stuttgart,10,3,5,2,12,12,0,14,,,,,35500,"Zdravko Kuzmanovi?, Pavel Pogrebnyak - 2",Jens Lehmann,,Stuttgart2010
+2010,Milan,16,16,1798.790161,186,1.125,1.25,1.75,2,3,4,5,7,8,R16,it Club Crest Milan,8,2,3,3,10,14,-4,9,,,,,58349,Ronaldinho - 3,Dida,,Milan2010
+2010,Unirea Urziceni,32,17,1575.941528,0,1.333333333,1.333333333,1.333333333,0,0,0,0,0,0,GR,ro Club Crest Unirea Urziceni,6,2,2,2,8,8,0,8,,,,,16500,"Marius Bila?co, Pablo Brandán... - 1",Giedrius Arlauskis,,Unirea Urziceni2010
+2010,Juventus,32,18,1776.838623,55,1.333333333,0.666666667,1.166666667,0,1,1,3,6,7,GR,it Club Crest Juventus,6,2,2,2,4,7,-3,8,,,,,21519,"Mauro Camoranesi, Giorgio Chiellini... - 1",Gianluigi Buffon,,Juventus2010
+2010,Wolfsburg,32,19,1751.025879,0,1.166666667,1.5,1.333333333,0,0,0,0,0,0,GR,de Club Crest Wolfsburg,6,2,1,3,9,8,1,7,,,,,25986,Edin Džeko - 4,Diego Benaglio,,Wolfsburg2010
+2010,Marseille,32,20,1772.705811,6,1.166666667,1.666666667,1.666666667,0,0,0,0,1,4,GR,fr Club Crest Marseille,6,2,1,3,10,10,0,7,,,,,57249,"Lucho González, Gabriel Heinze - 2",Steve Mandanda,,Marseille2010
+2010,Liverpool,32,21,1846.093506,127,1.166666667,0.833333333,1.166666667,1,2,3,5,6,7,GR,eng Club Crest Liverpool,6,2,1,3,5,7,-2,7,,,,,41339,Yossi Benayoun - 2,Pepe Reina,,Liverpool2010
+2010,Zürich,32,22,1536.773315,0,1.1,1.5,1.8,0,0,0,0,0,0,GR,ch Club Crest Zürich,10,3,2,5,15,18,-3,11,,,,,23608,"Silvan Aegerter, Alexandre Alphonse... - 1",Johnny Leoni,,Zürich2010
+2010,Maccabi Haifa,32,23,1594.978027,1,1,1.583333333,1,0,0,0,0,0,1,GR,il Club Crest Maccabi Haifa,12,3,3,6,19,12,7,12,,,,,18500,,Nir Davidovich,,Maccabi Haifa2010
+2010,Rubin Kazan,32,24,1715.092651,0,1,0.666666667,1.166666667,0,0,0,0,0,0,GR,ru Club Crest Rubin Kazan,6,1,3,2,4,7,-3,6,,,,,26122,"Gökdeniz Karadeniz, Aleksandr Ryazantsev - 1",Sergey Ryzhikov,,Rubin Kazan2010
+2010,APOEL FC,32,25,1537.705444,0,0.916666667,1.166666667,0.833333333,0,0,0,0,0,0,GR,cy Club Crest APOEL FC,12,2,5,5,14,10,4,11,,,,,20589,Nenad Mirosavljevi? - 2,Dionisis Chiotis,,APOEL FC2010
+2010,Debrecen,32,26,1451.043457,0,0.916666667,1.166666667,1.916666667,0,0,0,0,0,0,GR,hu Club Crest Debrecen,12,3,2,7,14,23,-9,11,,,,,16500,"Adamo Coulibaly, Gergely Rudolf - 2",Vukašin Poleksi?,,Debrecen2010
+2010,Atlético Madrid,32,27,1738.460205,3,0.875,1,1.75,0,0,0,0,1,1,GR,es Club Crest Atlético Madrid,8,1,4,3,8,14,-6,7,,,,,33543,Sergio Agüero - 2,Sergio Asenjo,,Atlético Madrid2010
+2010,Dynamo Kyiv,32,28,1814.61145,11,0.833333333,1.166666667,1.5,0,0,0,0,1,9,GR,ua Club Crest Dynamo Kyiv,6,1,2,3,7,9,-2,5,,,,,16873,"Taras Mykhalyk, Artem Milevskiy... - 1",Oleksandr Shovkovskiy,,Dynamo Kyiv2010
+2010,Standard Liège,32,29,1597.130981,0,0.833333333,1.166666667,1.5,0,0,0,0,0,0,GR,be Club Crest Standard Liège,6,1,2,3,7,9,-2,5,,,,,24056,Milan Jovanovi? - 2,Sinan Bolat,,Standard Liège2010
+2010,AZ Alkmaar,32,30,1605.922119,0,0.666666667,0.666666667,1.333333333,0,0,0,0,0,0,GR,nl Club Crest AZ Alkmaar,6,0,4,2,4,8,-4,4,,,,,16417,Jeremain Lens - 2,Sergio Romero,,AZ Alkmaar2010
+2010,Be?ikta?,32,31,1648.489746,3,0.666666667,0.5,1.333333333,0,0,0,0,0,3,GR,tr Club Crest Be?ikta?,6,1,1,4,3,8,-5,4,,,,,23500,"Bobô, Ekrem Da?... - 1",Rü?tü Reçber,,Be?ikta?2010
+2010,Rangers,32,32,1607.817749,7,0.333333333,0.666666667,2.166666667,0,0,0,0,1,5,GR,sct Club Crest Rangers,6,0,2,4,4,13,-9,2,,,,,41323,"Madjid Bougherra, Nacho Novo... - 1",Allan McGregor,,Rangers2010
+2009,Barcelona,1,1,1950.335693,122,2,2.4,0.933333333,1,1,4,5,7,8,W,es Club Crest Barcelona,15,8,6,2,36,14,22,30,,,,,72869,Lionel Messi - 9,Víctor Valdés,,Barcelona2009
+2009,Manchester Utd,2,2,1976.212646,121,1.923076923,1.384615385,0.615384615,1,1,3,6,8,9,F,eng Club Crest Manchester Utd,13,6,7,1,18,8,10,25,,,,,80888,"Dimitar Berbatov, Cristiano Ronaldo... - 4",Edwin van der Sar,,Manchester Utd2009
+2009,Chelsea,4,3,1957.165649,86,1.75,1.666666667,1.083333333,0,1,4,5,6,6,SF,eng Club Crest Chelsea,12,5,6,1,20,13,7,21,,,,,39612,Didier Drogba - 5,Petr ?ech,,Chelsea2009
+2009,Arsenal,4,4,1875.021484,65,1.714285714,1.642857143,0.785714286,0,1,1,4,8,9,SF,eng Club Crest Arsenal,14,7,3,4,23,11,12,24,,,,,59469,"Emmanuel Adebayor, Robin van Persie - 5",Manuel Almunia,,Arsenal2009
+2009,Bayern Munich,8,5,1857.068115,106,2.1,2.5,1,1,1,2,5,7,8,QF,de Club Crest Bayern Munich,10,6,3,1,25,10,15,21,,,,,65200,Miroslav Klose - 7,Michael Rensing,,Bayern Munich2009
+2009,Liverpool,8,6,1959.150391,120,2.083333333,1.833333333,1,1,2,3,4,5,6,QF,eng Club Crest Liverpool,12,7,4,1,22,12,10,25,,,,,42018,Steven Gerrard - 7,Pepe Reina,,Liverpool2009
+2009,Porto,8,7,1808.585205,83,1.5,1.3,1.3,1,1,1,2,6,7,QF,pt Club Crest Porto,10,4,3,3,13,13,0,15,,,,,43420,Lisandro López - 6,Helton Arruda,,Porto2009
+2009,Villarreal,8,8,1844.627563,15,1.4,1.3,1.3,0,0,1,1,1,1,QF,es Club Crest Villarreal,10,3,5,2,13,13,0,14,,,,,24700,Joseba Llorente - 4,Diego López,,Villarreal2009
+2009,Roma,16,9,1824.994629,21,1.875,1.625,0.875,0,0,0,2,4,5,R16,it Club Crest Roma,8,5,0,3,13,7,6,15,,,,,41106,"Matteo Brighi, Mirko Vu?ini? - 3",Doni,,Roma2009
+2009,Panathinaikos,16,10,1690.473755,13,1.75,1.333333333,0.916666667,0,0,0,1,2,5,R16,gr Club Crest Panathinaikos,12,6,3,3,16,11,5,21,,,,,62230,Vangelis Mantzios - 4,Mario Galinovi?,,Panathinaikos2009
+2009,Atlético Madrid,16,11,1871.228271,0,1.7,1.5,0.7,0,0,0,0,0,0,R16,es Club Crest Atlético Madrid,10,4,5,1,15,7,8,17,,,,,49197,"Sergio Agüero, Maxi Rodríguez - 3",Leo Franco,,Atlético Madrid2009
+2009,Juventus,16,12,1862.141479,52,1.7,1.4,0.7,0,1,1,3,5,6,R16,it Club Crest Juventus,10,4,5,1,14,7,7,17,,,,,22283,Alessandro Del Piero - 5,Alex Manninger,,Juventus2009
+2009,Lyon,16,13,1818.055908,32,1.5,2.125,2,0,0,0,3,6,8,R16,fr Club Crest Lyon,8,3,3,2,17,16,1,12,,,,,37898,Karim Benzema - 5,Hugo Lloris,,Lyon2009
+2009,Real Madrid,16,14,1874.964233,175,1.5,1.125,1.25,2,2,4,5,9,9,R16,es Club Crest Real Madrid,8,4,0,4,9,10,-1,12,,,,,68750,"Raúl, Ruud van Nistelrooy - 3",Iker Casillas,,Real Madrid2009
+2009,Sporting CP,16,15,1715.414917,3,1.5,1.125,2.5,0,0,0,0,0,3,R16,pt Club Crest Sporting CP,8,4,0,4,9,20,-11,12,,,,,35933,"Liédson, Derlei - 2",Rui Patrício,,Sporting CP2009
+2009,Inter,16,16,1905.323608,36,1.125,1,1.125,0,0,1,3,5,6,R16,it Club Crest Inter,8,2,3,3,8,9,-1,9,,,,,45250,"Adriano, Mario Balotelli... - 1",Júlio César,,Inter2009
+2009,Shakhtar,32,17,1706.189697,4,1.875,2,1,0,0,0,0,0,4,GR,ua Club Crest Shakhtar,8,5,0,3,16,8,8,15,,,,,21750,Jádson - 4,Andriy Pyatov,,Shakhtar2009
+2009,Dynamo Kyiv,32,18,1750.811279,10,1.8,1.6,0.9,0,0,0,0,1,8,GR,ua Club Crest Dynamo Kyiv,10,5,3,2,16,9,7,18,,,,,13125,"Roman Eremenko, Oleksandr Aliyev... - 1",Stanislav Bohush,,Dynamo Kyiv2009
+2009,Aalborg,32,19,1576.965576,0,1.8,2,1.5,0,0,0,0,0,0,GR,dk Club Crest Aalborg,10,5,3,2,20,15,5,18,,,,,9700,Jeppe Curth - 2,Karim Zaza,,Aalborg2009
+2009,Anorthosis,32,20,1561.95459,0,1.5,1.5,1,0,0,0,0,0,0,GR,cy Club Crest Anorthosis,12,5,3,4,18,12,6,18,,,,,17480,"Nikolaos Frousos, Cédric Bardon... - 1",Arjan Beqaj,,Anorthosis2009
+2009,BATE Borisov,32,21,1410.777466,0,1.416666667,1,1,0,0,0,0,0,0,GR,by Club Crest BATE Borisov,12,4,5,3,12,12,0,17,,,,,14100,"Sergey Krivets, Pavel Nyakhaychyk... - 1",Syarhey Vyeramko,,BATE Borisov2009
+2009,Marseille,32,22,1717.71814,5,1.25,1,1,0,0,0,0,1,3,GR,fr Club Crest Marseille,8,3,1,4,8,8,0,10,,,,,49250,Mamadou Niang - 3,Steve Mandanda,,Marseille2009
+2009,Fiorentina,32,23,1789.393311,3,1.25,0.875,1,0,0,0,0,1,1,GR,it Club Crest Fiorentina,8,2,4,2,7,8,-1,10,,,,,33140,Alberto Gilardino - 4,Sébastien Frey,,Fiorentina2009
+2009,Fenerbahçe,32,24,1674.155396,10,1.2,1.5,1.4,0,0,0,1,1,4,GR,tr Club Crest Fenerbahçe,10,3,3,4,15,14,1,12,,,,,39130,Dani Güiza - 2,Volkan Demirel,,Fenerbahçe2009
+2009,Werder Bremen,32,25,1748.288086,8,1.166666667,1.166666667,1.5,0,0,0,0,2,4,GR,de Club Crest Werder Bremen,6,1,4,1,7,9,-2,7,,,,,39322,"Hugo Almeida, Claudio Pizarro - 2",Tim Wiese,,Werder Bremen2009
+2009,Bordeaux,32,26,1768.433838,4,1.166666667,0.833333333,1.833333333,0,0,0,0,1,2,GR,fr Club Crest Bordeaux,6,2,1,3,5,11,-6,7,,,,,28435,Yoann Gourcuff - 2,"Ulrich Ramé, Mathieu Valverde",,Bordeaux2009
+2009,Basel,32,27,1557.785889,3,0.9,0.9,2,0,0,0,0,1,1,GR,ch Club Crest Basel,10,2,3,5,9,20,-11,9,,,,,26455,"David Abraham, Eren Derdiyok - 1",Franco Costanzo,,Basel2009
+2009,Celtic,32,28,1688.657227,9,0.833333333,0.666666667,1.166666667,0,0,0,0,2,5,GR,sct Club Crest Celtic,6,1,2,3,4,7,-3,5,,,,,58146,"Shaun Maloney, Scott McDonald... - 1",Artur Boruc,,Celtic2009
+2009,Zenit,32,29,1704.675293,0,0.833333333,0.666666667,1.166666667,0,0,0,0,0,0,GR,ru Club Crest Zenit,6,1,2,3,4,7,-3,5,,,,,20333,Danny - 2,Vyacheslav Malafeev,,Zenit2009
+2009,CFR Cluj,32,30,1534.651367,0,0.666666667,0.833333333,1.5,0,0,0,0,0,0,GR,ro Club Crest CFR Cluj,6,1,1,4,5,9,-4,4,,,,,20833,"Yssouf Koné, Emmanuel Culio - 2",Eduard St?ncioiu,,CFR Cluj2009
+2009,Steaua,32,31,1576.658813,2,0.625,0.75,1.75,0,0,0,0,0,2,GR,ro Club Crest Steaua,8,1,2,5,6,14,-8,5,,,,,19262,"Arthuro, Dorin Goian... - 1",Róbinson Zapata,,Steaua2009
+2009,PSV,32,32,1636.050049,31,0.5,0.833333333,2.333333333,0,0,1,2,3,9,GR,nl Club Crest PSV Eindhoven,6,1,0,5,5,14,-9,3,,,,,31000,Danny Koevermans - 4,Andreas Isaksson,,PSV2009
+2008,Manchester Utd,1,1,1975.869995,58,2.461538462,1.538461538,0.461538462,0,0,2,5,7,8,W,eng Club Crest Manchester Utd,13,9,5,0,20,6,14,32,,,,,80699,Cristiano Ronaldo - 8,Edwin van der Sar,,Manchester Utd2008
+2008,Chelsea,2,2,1950.860474,55,1.923076923,1.538461538,0.615384615,0,0,3,4,5,5,F,eng Club Crest Chelsea,13,6,7,1,20,8,12,25,,,,,43401,Didier Drogba - 6,Petr ?ech,,Chelsea2008
+2008,Barcelona,4,3,1965.606323,107,2.25,1.5,0.5,1,1,3,4,6,7,SF,es Club Crest Barcelona,12,8,3,1,18,6,12,27,,,,,78218,Lionel Messi - 6,Víctor Valdés,,Barcelona2008
+2008,Liverpool,4,4,1900.418335,105,1.928571429,2.428571429,0.857142857,1,2,2,3,4,5,SF,eng Club Crest Liverpool,14,8,3,3,34,12,22,27,,,,,41626,"Steven Gerrard, Fernando Torres - 6",Pepe Reina,,Liverpool2008
+2008,Arsenal,8,5,1933.713501,58,2,2,0.75,0,1,1,3,7,8,QF,eng Club Crest Arsenal,12,7,3,2,24,9,15,24,,,,,59926,Cesc Fàbregas - 4,Manuel Almunia,,Arsenal2008
+2008,Fenerbahçe,8,6,1735.917236,3,1.916666667,1.5,1.166666667,0,0,0,0,0,3,QF,tr Club Crest Fenerbahçe,12,7,2,3,18,14,4,23,,,,,47542,Deivid - 5,Volkan Demirel,,Fenerbahçe2008
+2008,Roma,8,7,1846.570557,14,1.7,1.5,1.1,0,0,0,1,3,4,QF,it Club Crest Roma,10,5,2,3,15,11,4,17,,,,,43110,Mirko Vu?ini? - 4,Doni,,Roma2008
+2008,Schalke 04,8,8,1771.374634,2,1.1,0.6,0.7,0,0,0,0,0,2,QF,de Club Crest Schalke 04,10,3,2,5,6,7,-1,11,,,,,53951,Kevin Kurányi - 3,Manuel Neuer,,Schalke 042008
+2008,Sevilla,16,9,1892.099487,0,2.4,2.5,1.3,0,0,0,0,0,0,R16,es Club Crest Sevilla,10,8,0,2,25,13,12,24,,,,,38188,Frédéric Kanouté - 5,Andrés Palop,,Sevilla2008
+2008,Inter,16,10,1942.643433,33,1.875,1.5,0.875,0,0,1,3,4,5,R16,it Club Crest Inter,8,5,0,3,12,7,5,15,,,,,40176,Zlatan Ibrahimovi? - 5,Júlio César,,Inter2008
+2008,Milan,16,11,1852.020874,183,1.75,1.5,0.875,2,3,4,5,6,7,R16,it Club Crest Milan,8,4,2,2,12,7,5,14,,,,,48874,Filippo Inzaghi - 4,Zeljko Kalac,,Milan2008
+2008,Porto,16,12,1812.394653,80,1.75,1.125,1,1,1,1,2,5,6,R16,pt Club Crest Porto,8,4,2,2,9,8,1,14,,,,,44285,Lisandro López - 3,Helton Arruda,,Porto2008
+2008,Olympiacos,16,13,1747.401123,8,1.5,1.375,1.25,0,0,0,0,0,8,R16,gr Club Crest Olympiacos,8,3,3,2,11,10,1,12,,,,,23775,"Darko Kova?evi?, Luciano Galletti... - 3",Antonios Nikopolidis,,Olympiacos2008
+2008,Real Madrid,16,14,1962.443115,172,1.375,1.875,1.625,2,2,4,5,8,8,R16,es Club Crest Real Madrid,8,3,2,3,15,13,2,11,,,,,75532,Raúl - 5,Iker Casillas,,Real Madrid2008
+2008,Lyon,16,15,1832.495728,29,1.375,1.5,1.5,0,0,0,3,5,7,R16,fr Club Crest Lyon,8,3,2,3,12,12,0,11,,,,,38308,Karim Benzema - 4,Rémy Vercoutre,,Lyon2008
+2008,Celtic,16,16,1648.606567,6,1.1,0.9,1.2,0,0,0,0,1,4,R16,sct Club Crest Celtic,10,3,2,5,9,12,-3,11,,,,,58757,"Ji?í Jarošík, Scott McDonald... - 1",Artur Boruc,,Celtic2008
+2008,Rosenborg,32,17,1562.622559,8,1.9,2.1,1.2,0,0,0,0,1,6,GR,no Club Crest Rosenborg,10,6,1,3,21,12,9,19,,,,,18787,"Yssouf Koné, Steffen Iversen - 2",Lars Hirschfeld,,Rosenborg2008
+2008,Rangers,32,18,1662.716797,6,1.7,1.1,0.9,0,0,0,0,1,4,GR,sct Club Crest Rangers,10,5,2,3,11,9,2,17,,,,,50061,Charlie Adam - 2,Allan McGregor,,Rangers2008
+2008,Benfica,32,19,1757.799438,8,1.625,1,0.875,0,0,0,1,1,2,GR,pt Club Crest Benfica,8,4,1,3,8,7,1,13,,,,,42101,Óscar Cardozo - 3,Quim,,Benfica2008
+2008,Be?ikta?,32,20,1634.632324,2,1.6,1.1,1.6,0,0,0,0,0,2,GR,tr Club Crest Be?ikta?,10,5,1,4,11,16,-5,16,,,,,25649,Bobô - 2,Hakan Ar?kan,,Be?ikta?2008
+2008,Shakhtar,32,21,1642.365845,3,1.5,1.3,1.4,0,0,0,0,0,3,GR,ua Club Crest Shakhtar,10,5,0,5,13,14,-1,15,,,,,26667,Cristiano Lucarelli - 3,Andriy Pyatov,,Shakhtar2008
+2008,Werder Bremen,32,22,1800.337158,7,1.5,1.625,2,0,0,0,0,2,3,GR,de Club Crest Werder Bremen,8,4,0,4,13,16,-3,12,,,,,36812,Boubacar Sanogo - 3,Tim Wiese,,Werder Bremen2008
+2008,Valencia,32,23,1788.908325,77,1.375,0.875,0.875,0,2,2,4,4,5,GR,es Club Crest Valencia,8,3,2,3,7,7,0,11,,,,,36500,David Villa - 2,Santiago Cañizares,,Valencia2008
+2008,Slavia Prague,32,24,1626.083618,0,1.3,0.8,1.7,0,0,0,0,0,0,GR,cz Club Crest Slavia Prague,10,3,4,3,8,17,-9,13,,,,,17333,Zden?k Šenke?ík - 2,Martin Vaniak,,Slavia Prague2008
+2008,Sporting CP,32,25,1739.617065,2,1.166666667,1.5,1.333333333,0,0,0,0,0,2,GR,pt Club Crest Sporting CP,6,2,1,3,9,8,1,7,,,,,31305,Liédson - 4,"Rui Patrício, Vladimir Stojkovi?...",,Sporting CP2008
+2008,Marseille,32,26,1689.7771,4,1.166666667,1,1.5,0,0,0,0,1,2,GR,fr Club Crest Marseille,6,2,1,3,6,9,-3,7,,,,,53032,Mamadou Niang - 2,Steve Mandanda,,Marseille2008
+2008,PSV,32,27,1698.473511,30,1.166666667,0.5,1,0,0,1,2,3,8,GR,nl Club Crest PSV Eindhoven,6,2,1,3,3,6,-3,7,,,,,34333,"Jefferson Farfán, Danko Lazovi?... - 1",Heurelho Gomes,,PSV2008
+2008,Lazio,32,28,1706.081177,12,1.125,1.5,1.625,0,0,0,1,2,4,GR,it Club Crest Lazio,8,2,3,3,12,13,-1,9,,,,,45567,Goran Pandev - 4,Marco Ballotta,,Lazio2008
+2008,Steaua,32,29,1594.71521,1,1.1,1.1,1.3,0,0,0,0,0,1,GR,ro Club Crest Steaua,10,3,2,5,11,13,-2,11,,,,,20333,"Valentin Badea, Dorin Goian... - 1",Róbinson Zapata,,Steaua2008
+2008,Dynamo Kyiv,32,30,1618.155396,9,0.75,1,2.375,0,0,0,0,1,7,GR,ua Club Crest Dynamo Kyiv,8,2,0,6,8,19,-11,6,,,,,32667,Ismaël Bangoura - 2,Oleksandr Shovkovskiy,,Dynamo Kyiv2008
+2008,Stuttgart,32,31,1706.535889,3,0.5,1.166666667,2.5,0,0,0,0,1,1,GR,de Club Crest Stuttgart,6,1,0,5,7,15,-8,3,,,,,51300,Mario Gómez - 3,Raphael Schäfer,,Stuttgart2008
+2008,CSKA Moscow,32,32,1626.37793,2,0.166666667,1.166666667,2.333333333,0,0,0,0,0,2,GR,ru Club Crest CSKA Moscow,6,0,1,5,7,14,-7,1,,,,,24667,Vágner Love - 3,"Igor Akinfeev, Veniamin Mandrykin",,CSKA Moscow2008
+2007,Milan,1,1,1843.056641,120,2.066666667,1.533333333,0.733333333,1,2,3,4,5,6,W,it Club Crest Milan,15,9,4,3,23,11,12,31,,,,,55496,Kaká - 10,Dida,,Milan2007
+2007,Liverpool,2,2,1882.941162,74,2,1.466666667,0.8,1,1,1,2,3,4,F,eng Club Crest Liverpool,15,9,3,4,22,12,10,30,,,,,50527,Peter Crouch - 6,Pepe Reina,,Liverpool2007
+2007,Manchester Utd,4,3,1942.644531,43,2,1.916666667,1.083333333,0,0,1,4,6,7,SF,eng Club Crest Manchester Utd,12,8,0,4,23,13,10,24,,,,,74081,Wayne Rooney - 4,Edwin van der Sar,,Manchester Utd2007
+2007,Chelsea,4,4,1970.997681,40,2,1.416666667,0.75,0,0,2,3,4,4,SF,eng Club Crest Chelsea,12,7,3,2,17,9,8,24,,,,,37114,Didier Drogba - 6,Petr ?ech,,Chelsea2007
+2007,Roma,8,5,1811.481079,7,1.7,1.3,1.2,0,0,0,0,2,3,QF,it Club Crest Roma,10,5,2,3,13,12,1,17,,,,,48032,Francesco Totti - 4,Doni,,Roma2007
+2007,Bayern Munich,8,6,1829.450439,99,1.6,1.6,1.1,1,1,2,4,6,7,QF,de Club Crest Bayern Munich,10,4,4,2,16,11,5,16,,,,,65400,Claudio Pizarro - 4,Oliver Kahn,,Bayern Munich2007
+2007,Valencia,8,7,1864.892578,70,1.583333333,1.583333333,1,0,2,2,3,3,4,QF,es Club Crest Valencia,12,5,4,3,19,12,7,19,,,,,41708,Fernando Morientes - 6,Santiago Cañizares,,Valencia2007
+2007,PSV,8,8,1829.163696,23,1.4,0.8,1.1,0,0,1,1,2,7,QF,nl Club Crest PSV Eindhoven,10,4,2,4,8,11,-3,14,,,,,33340,"Alex, Arouna Koné - 2",Heurelho Gomes,,PSV2007
+2007,Lyon,16,9,1952.31604,26,1.875,1.5,0.625,0,0,0,3,4,6,R16,fr Club Crest Lyon,8,4,3,1,12,5,7,15,,,,,39786,"Karim Benzema, Fred... - 2",Grégory Coupet,,Lyon2007
+2007,Arsenal,16,10,1886.604126,55,1.8,1.3,0.6,0,1,1,3,6,7,R16,eng Club Crest Arsenal,10,5,3,2,13,6,7,18,,,,,59975,"Emmanuel Eboué, Júlio Baptista... - 1",Jens Lehmann,,Arsenal2007
+2007,Barcelona,16,11,1991.24292,104,1.75,1.75,0.75,1,1,3,4,5,6,R16,es Club Crest Barcelona,8,4,2,2,14,6,8,14,,,,,85626,Eiður Guðjohnsen - 3,Víctor Valdés,,Barcelona2007
+2007,Real Madrid,16,12,1902.113403,169,1.75,2.25,1.5,2,2,4,5,7,7,R16,es Club Crest Real Madrid,8,4,2,2,18,12,6,14,,,,,71854,Ruud van Nistelrooy - 6,Iker Casillas,,Real Madrid2007
+2007,Lille,16,13,1773.762573,2,1.5,1.2,0.7,0,0,0,0,0,2,R16,fr Club Crest Lille,10,4,3,3,12,7,5,15,,,,,36512,"Nicolas Fauvergue, Peter Odemwingie - 2",Tony Sylva,,Lille2007
+2007,Porto,16,14,1812.391235,77,1.5,1.375,0.875,1,1,1,2,4,5,R16,pt Club Crest Porto,8,3,3,2,11,7,4,12,,,,,41014,"Lucho González, Lisandro López - 3",Helton Arruda,,Porto2007
+2007,Inter,16,15,1881.040283,30,1.5,0.875,0.875,0,0,1,3,3,4,R16,it Club Crest Inter,8,3,3,2,7,7,0,12,,,,,29487,Julio Ricardo Cruz - 3,Júlio César,,Inter2007
+2007,Celtic,16,16,1659.301392,3,1.25,1,1.25,0,0,0,0,0,3,R16,sct Club Crest Celtic,8,3,1,4,8,10,-2,10,,,,,58832,Kenny Miller - 3,Artur Boruc,,Celtic2007
+2007,CSKA Moscow,32,17,1705.206299,1,1.75,1.125,0.625,0,0,0,0,0,1,GR,ru Club Crest CSKA Moscow,8,4,2,2,9,5,4,14,,,,,24551,"Daniel Carvalho, Ivica Oli?... - 1",Igor Akinfeev,,CSKA Moscow2007
+2007,AEK Athens,32,18,1647.727173,2,1.75,1.375,1.25,0,0,0,0,0,2,GR,gr Club Crest AEK Athens,8,4,2,2,11,10,1,14,,,,,40990,Júlio César - 2,Stefano Sorrentino,,AEK Athens2007
+2007,Werder Bremen,32,19,1827.841675,6,1.666666667,1.166666667,0.833333333,0,0,0,0,2,2,GR,de Club Crest Werder Bremen,6,3,1,2,7,5,2,10,,,,,36885,"Torsten Frings, Frank Baumann... - 1",Tim Wiese,,Werder Bremen2007
+2007,Steaua,32,20,1711.048096,0,1.5,1.6,1.4,0,0,0,0,0,0,GR,ro Club Crest Steaua,10,4,3,3,16,14,2,15,,,,,24155,Nicolae Dic? - 4,"Carlos Fernandes, Cornel Cernea",,Steaua2007
+2007,Shakhtar,32,21,1711.346924,2,1.5,1.25,1.625,0,0,0,0,0,2,GR,ua Club Crest Shakhtar,8,3,3,2,10,13,-3,12,,,,,25400,"Ciprian Marica, Matuzalém - 2",Bohdan Shust,,Shakhtar2007
+2007,FC Copenhagen,32,22,1621.026245,0,1.4,1.2,1.2,0,0,0,0,0,0,GR,dk Club Crest FC Copenhagen,10,4,2,4,12,12,0,14,,,,,39680,Marcus Allbäck - 3,Jesper Christiansen,,FC Copenhagen2007
+2007,Benfica,32,23,1721.24939,7,1.375,1.375,1.125,0,0,0,1,1,1,GR,pt Club Crest Benfica,8,3,2,3,11,9,2,11,,,,,45918,Fabrizio Miccoli - 2,Quim,,Benfica2007
+2007,Dynamo Kyiv,32,24,1702.010986,8,1.2,1.8,2,0,0,0,0,1,6,GR,ua Club Crest Dynamo Kyiv,10,3,3,4,18,20,-2,12,,,,,36667,Maksim Shatskikh - 2,Oleksandr Shovkovskiy,,Dynamo Kyiv2007
+2007,Bordeaux,32,25,1729.419922,3,1.166666667,1,1.166666667,0,0,0,0,1,1,GR,fr Club Crest Bordeaux,6,2,1,3,6,7,-1,7,,,,,25964,Julien Faubert - 2,Ulrich Ramé,,Bordeaux2007
+2007,Spartak Moscow,32,26,1675.412231,6,1.1,1,1.3,0,0,0,0,1,4,GR,ru Club Crest Spartak Moscow,10,2,5,3,10,13,-3,11,,,,,35333,"Maksym Kalynychenko, Denis Boyarintsev... - 2",Wojciech Kowalewski,,Spartak Moscow2007
+2007,Levski Sofia,32,27,1650.062744,0,1,0.9,1.9,0,0,0,0,0,0,GR,bg Club Crest Levski Sofia,10,3,1,6,9,19,-10,10,,,,,36504,Mariyan Ognyanov - 1,Georgi Petkov,,Levski Sofia2007
+2007,Galatasaray,32,28,1650.608154,13,1,1.625,1.875,0,0,0,1,2,5,GR,tr Club Crest Galatasaray,8,2,2,4,13,15,-2,8,,,,,48018,"Saša Ili?, Ümit Karan - 2",Faryd Mondragón,,Galatasaray2007
+2007,Sporting CP,32,29,1706.625854,1,0.833333333,0.5,1,0,0,0,0,0,1,GR,pt Club Crest Sporting CP,6,1,2,3,3,6,-3,5,,,,,29239,"Carlos Bueno, Marco Caneira... - 1",Ricardo,,Sporting CP2007
+2007,Anderlecht,32,30,1642.994995,7,0.666666667,1.166666667,1.833333333,0,0,0,0,1,5,GR,be Club Crest Anderlecht,6,0,4,2,7,11,-4,4,,,,,21027,"Nicolás Frutos, Mbo Mpenza - 2",Daniel Zítka,,Anderlecht2007
+2007,Hamburger SV,32,31,1641.61145,1,0.625,1,2,0,0,0,0,0,1,GR,de Club Crest Hamburger SV,8,1,2,5,8,16,-8,5,,,,,48999,Rafael van der Vaart - 3,Stefan Wächter,,Hamburger SV2007
+2007,Olympiacos,32,32,1668.569702,7,0.5,1,1.833333333,0,0,0,0,0,7,GR,gr Club Crest Olympiacos,6,0,3,3,6,11,-5,3,,,,,31101,Nery Castillo - 3,Antonios Nikopolidis,,Olympiacos2007
+2006,Barcelona,1,1,1973.262817,41,2.461538462,1.846153846,0.384615385,0,0,2,3,4,5,W,es Club Crest Barcelona,13,9,5,0,24,5,19,32,,,,,88420,Ronaldinho - 7,Víctor Valdés,,Barcelona2006
+2006,Arsenal,2,2,1869.994507,24,2.230769231,1.153846154,0.307692308,0,0,0,2,5,6,F,eng Club Crest Arsenal,13,8,5,1,15,4,11,29,,,,,45212,Thierry Henry - 5,Jens Lehmann,,Arsenal2006
+2006,Milan,4,3,1906.171265,105,1.666666667,1.666666667,0.833333333,1,2,2,3,4,5,SF,it Club Crest Milan,12,5,5,2,20,10,10,20,,,,,59211,Andriy Shevchenko - 9,Dida,,Milan2006
+2006,Villarreal,4,4,1865.840088,0,1.571428571,0.857142857,0.642857143,0,0,0,0,0,0,SF,es Club Crest Villarreal,14,5,7,2,12,9,3,22,,,,,22917,Diego Forlán - 3,Sebastián Viera,,Villarreal2006
+2006,Lyon,8,5,1920.841187,19,2.3,1.9,0.7,0,0,0,2,3,5,QF,fr Club Crest Lyon,10,7,2,1,19,7,12,23,,,,,39437,"Juninho Pernambucano, John Carew - 3",Grégory Coupet,,Lyon2006
+2006,Inter,8,6,1870.415894,23,2,1.416666667,0.75,0,0,1,2,2,3,QF,it Club Crest Inter,12,7,3,2,17,9,8,24,,,,,23000,Adriano - 5,"Júlio César, Francesco Toldo",,Inter2006
+2006,Juventus,8,7,1941.227783,45,1.9,1.6,1.1,0,1,1,2,4,5,QF,it Club Crest Juventus,10,6,1,3,16,11,5,19,,,,,25416,David Trezeguet - 6,Christian Abbiati,,Juventus2006
+2006,Benfica,8,8,1690.780151,0,1.5,0.8,0.7,0,0,0,0,0,0,QF,pt Club Crest Benfica,10,4,3,3,8,7,1,15,,,,,54237,"Fabrizio Miccoli, Simão Sabrosa - 2",Marcelo Moretto,,Benfica2006
+2006,Liverpool,16,9,1866.918579,71,1.928571429,1.428571429,0.5,1,1,1,2,2,3,R16,eng Club Crest Liverpool,14,8,3,3,20,7,13,27,,,,,42543,"Luis García, Djibril Cissé - 2",Pepe Reina,,Liverpool2006
+2006,Bayern Munich,16,10,1903.904053,96,1.75,1.5,1.125,1,1,2,4,5,6,R16,de Club Crest Bayern Munich,8,4,2,2,12,9,3,14,,,,,65882,Sebastian Deisler - 3,Oliver Kahn,,Bayern Munich2006
+2006,Ajax,16,11,1730.422241,9,1.6,1.7,1.2,0,0,0,1,1,3,R16,nl Club Crest Ajax,10,4,4,2,17,12,5,16,,,,,46631,"Yannis Anastasiou, Nigel de Jong - 3",Maarten Stekelenburg,,Ajax2006
+2006,Rangers,16,12,1573.436768,3,1.5,1.4,1.1,0,0,0,0,0,3,R16,sct Club Crest Rangers,10,3,6,1,14,11,3,15,,,,,49040,Peter Løvenkrands - 4,Ronald Waterreus,,Rangers2006
+2006,Chelsea,16,13,1993.128174,37,1.5,1.125,0.5,0,0,2,3,3,3,R16,eng Club Crest Chelsea,8,3,3,2,9,4,5,12,,,,,36788,"Ricardo Carvalho, Frank Lampard... - 2",Petr ?ech,,Chelsea2006
+2006,Real Madrid,16,14,1852.279541,166,1.375,1.25,1.125,2,2,4,5,6,6,R16,es Club Crest Real Madrid,8,3,2,3,10,9,1,11,,,,,69796,"Iván Helguera, Raúl - 2",Iker Casillas,,Real Madrid2006
+2006,Werder Bremen,16,15,1800.887451,3,1.3,2,1.8,0,0,0,0,1,1,R16,de Club Crest Werder Bremen,10,4,1,5,20,18,2,13,,,,,37919,Johan Micoud - 4,Andreas Reinke,,Werder Bremen2006
+2006,PSV,16,16,1836.893311,20,1.25,0.5,1.375,0,0,1,1,1,6,R16,nl Club Crest PSV Eindhoven,8,3,1,4,4,11,-7,10,,,,,33250,Jefferson Farfán - 2,Heurelho Gomes,,PSV2006
+2006,Udinese,32,17,1704.764648,0,1.625,1.75,1.75,0,0,0,0,0,0,GR,it Club Crest Udinese,8,4,1,3,14,14,0,13,,,,,28133,Vincenzo Iaquinta - 4,Morgan De Sanctis,,Udinese2006
+2006,Manchester Utd,32,18,1861.814453,42,1.5,1.125,0.5,0,0,1,4,6,6,GR,eng Club Crest Manchester Utd,8,3,3,2,9,4,5,12,,,,,64736,"Ryan Giggs, Paul Scholes... - 1",Edwin van der Sar,,Manchester Utd2006
+2006,Thun,32,19,1475.356934,0,1.4,1.1,1.1,0,0,0,0,0,0,GR,ch Club Crest Thun,10,4,2,4,11,11,0,14,,,,,31011,"Adriano Pimenta, Nelson Ferreira... - 1",Eldin Jakupovi?,,Thun2006
+2006,Betis,32,20,1739.906616,0,1.375,0.75,1.125,0,0,0,0,0,0,GR,es Club Crest Betis,8,3,2,3,6,9,-3,11,,,,,37333,"Arzu, Daniel Martín... - 1",Toni Doblas,,Betis2006
+2006,Schalke 04,32,21,1753.335571,1,1.333333333,2,1.5,0,0,0,0,0,1,GR,de Club Crest Schalke 04,6,2,2,2,12,9,3,8,,,,,53804,Levan Kobiashvili - 3,Frank Rost,,Schalke 042006
+2006,Club Brugge,32,22,1642.079468,2,1.25,0.875,1,0,0,0,0,0,2,GR,be Club Crest Club Brugge,8,3,1,4,7,8,-1,10,,,,,27753,"Boško Balaban, Javier Portillo - 2",Tomislav Butina,,Club Brugge2006
+2006,Anderlecht,32,23,1647.537842,6,1.2,1,1,0,0,0,0,1,4,GR,be Club Crest Anderlecht,10,4,0,6,10,10,0,12,,,,,21649,Vincent Kompany - 1,Silvio Proto,,Anderlecht2006
+2006,Artmedia,32,24,1471.431641,0,1.166666667,1.166666667,1.333333333,0,0,0,0,0,0,GR,sk Club Crest Artmedia,12,3,5,4,14,16,-2,14,,,,,14356,"Balázs Borbély, Ján Kozák - 2",Juraj ?obej,,Artmedia2006
+2006,Rapid Wien,32,25,1536.983887,0,1,1.4,1.9,0,0,0,0,0,0,GR,at Club Crest Rapid Wien,10,3,1,6,14,19,-5,10,,,,,44600,Marek Kincl - 2,Helge Payer,,Rapid Wien2006
+2006,Rosenborg,32,26,1547.255615,7,1,1.25,1.75,0,0,0,0,1,5,GR,no Club Crest Rosenborg,8,2,2,4,10,14,-4,8,,,,,21053,"Daniel Braaten, Thorstein Helstad... - 1",Espen Johnsen,,Rosenborg2006
+2006,Lille,32,27,1771.356323,1,1,0.166666667,0.333333333,0,0,0,0,0,1,GR,fr Club Crest Lille,6,1,3,2,1,2,-1,6,,,,,59269,Milenko A?imovi? - 1,Tony Sylva,,Lille2006
+2006,Panathinaikos,32,28,1641.716187,12,0.875,1.125,2.5,0,0,0,1,2,4,GR,gr Club Crest Panathinaikos,8,2,1,5,9,20,-11,7,,,,,45000,"Constantinos Charalambides, Ezequiel González... - 1",Mario Galinovi?,,Panathinaikos2006
+2006,Porto,32,29,1708.720825,76,0.833333333,1.333333333,1.5,1,1,1,2,4,4,GR,pt Club Crest Porto,6,1,2,3,8,9,-1,5,,,,,38855,Pepe - 2,Vítor Baía,,Porto2006
+2006,Olympiacos,32,30,1694.445313,6,0.666666667,1.166666667,2.166666667,0,0,0,0,0,6,GR,gr Club Crest Olympiacos,6,1,1,4,7,13,-6,4,,,,,30337,"Pantelis Kafes, Rivaldo - 2",Antonios Nikopolidis,,Olympiacos2006
+2006,Fenerbahçe,32,31,1700.319092,2,0.666666667,1.166666667,2.333333333,0,0,0,0,0,2,GR,tr Club Crest Fenerbahçe,6,1,1,4,7,14,-7,4,,,,,44298,Alex - 3,Volkan Demirel,,Fenerbahçe2006
+2006,Sparta Prague,32,32,1515.539185,11,0.333333333,0.333333333,1.5,0,0,0,0,3,5,GR,cz Club Crest Sparta Prague,6,0,2,4,2,9,-7,2,,,,,12382,"Miroslav Matušovi?, Martin Petráš - 1",Jaromír Blažek,,Sparta Prague2006
+2005,Liverpool,1,1,1807.786499,8,1.933333333,1.333333333,0.666666667,0,0,0,1,1,2,W,eng Club Crest Liverpool,15,8,5,3,20,10,10,29,,,,,48916,Luis García - 5,Jerzy Dudek,,Liverpool2005
+2005,Milan,2,2,1881.259277,74,2.307692308,1.769230769,0.692307692,1,1,1,2,3,4,F,it Club Crest Milan,13,9,3,2,23,9,14,30,,,,,78489,Hernán Crespo - 6,Dida,,Milan2005
+2005,PSV,4,3,1797.530396,5,1.714285714,1.5,1.071428571,0,0,0,0,0,5,SF,nl Club Crest PSV Eindhoven,14,7,3,4,21,15,6,24,,,,,31758,"DaMarcus Beasley, Phillip Cocu - 3",Heurelho Gomes,,PSV2005
+2005,Chelsea,4,4,1919.253174,22,1.666666667,1.75,1.083333333,0,0,1,2,2,2,SF,eng Club Crest Chelsea,12,6,2,4,21,13,8,20,,,,,39254,Didier Drogba - 5,Petr ?ech,,Chelsea2005
+2005,Lyon,8,5,1872.858154,12,2.1,2.9,1.2,0,0,0,1,2,4,QF,fr Club Crest Lyon,10,6,3,1,29,12,17,21,,,,,39416,Sylvain Wiltord - 6,Grégory Coupet,,Lyon2005
+2005,Juventus,8,6,1868.677612,38,2,1.25,0.583333333,0,1,1,1,3,4,QF,it Club Crest Juventus,12,7,3,2,15,7,8,24,,,,,29334,"Pavel Nedv?d, Alessandro Del Piero... - 2",Gianluigi Buffon,,Juventus2005
+2005,Inter,8,7,1808.161865,16,1.833333333,1.916666667,1,0,0,1,1,1,2,QF,it Club Crest Inter,12,6,4,2,23,12,11,22,,,,,46356,Adriano - 7,Francesco Toldo,,Inter2005
+2005,Bayern Munich,8,8,1836.174194,89,1.6,2,1.3,1,1,2,3,4,5,QF,de Club Crest Bayern Munich,10,5,1,4,20,13,7,16,,,,,54400,Roy Makaay - 7,Oliver Kahn,,Bayern Munich2005
+2005,Real Madrid,16,9,1853.718628,163,2,1.7,1.1,2,2,4,5,5,5,R16,es Club Crest Real Madrid,10,6,2,2,17,11,6,20,,,,,67193,"Luís Figo, Raúl - 4",Iker Casillas,,Real Madrid2005
+2005,Monaco,16,10,1832.695923,32,1.8,1.9,0.7,0,1,1,1,1,2,R16,fr Club Crest Monaco,10,6,0,4,19,7,12,18,,,,,15581,Javier Saviola - 4,Flavio Roma,,Monaco2005
+2005,Manchester Utd,16,11,1875.944092,39,1.7,1.9,1.2,0,0,1,4,5,5,R16,eng Club Crest Manchester Utd,10,5,2,3,19,12,7,17,,,,,66849,Ruud van Nistelrooy - 8,Roy Carroll,,Manchester Utd2005
+2005,Arsenal,16,12,1913.537598,21,1.625,1.625,1.125,0,0,0,2,4,5,R16,eng Club Crest Arsenal,8,3,4,1,13,9,4,13,,,,,35022,Thierry Henry - 5,Jens Lehmann,,Arsenal2005
+2005,Barcelona,16,13,1904.650146,38,1.625,1.625,1.375,0,0,2,3,3,4,R16,es Club Crest Barcelona,8,4,1,3,13,11,2,13,,,,,67579,"Samuel Eto'o, Ronaldinho - 4",Víctor Valdés,,Barcelona2005
+2005,Werder Bremen,16,14,1826.039185,0,1.625,1.75,2,0,0,0,0,0,0,R16,de Club Crest Werder Bremen,8,4,1,3,14,16,-2,13,,,,,36761,Ivan Klasni? - 5,Andreas Reinke,,Werder Bremen2005
+2005,Leverkusen,16,15,1788.486572,36,1.4,2.1,1.5,0,1,1,1,2,4,R16,de Club Crest Leverkusen,10,4,2,4,21,15,6,14,,,,,22500,"Dimitar Berbatov, França... - 3",Hans-Jörg Butt,,Leverkusen2005
+2005,Porto,16,16,1811.620605,73,1.125,0.75,1.25,1,1,1,2,3,3,R16,pt Club Crest Porto,8,2,3,3,6,10,-4,9,,,,,50005,Benni McCarthy - 3,Vítor Baía,,Porto2005
+2005,Olympiacos,32,17,1740.741577,5,1.666666667,0.833333333,0.833333333,0,0,0,0,0,5,GR,gr Club Crest Olympiacos,6,3,1,2,5,5,0,10,,,,,32782,"Predrag ?or?evi?, Ioannis Okkas... - 1",Antonios Nikopolidis,,Olympiacos2005
+2005,Dynamo Kyiv,32,18,1773.848999,7,1.625,1.75,1.25,0,0,0,0,1,5,GR,ua Club Crest Dynamo Kyiv,8,4,1,3,14,10,4,13,,,,,78333,"Florin Cernat, Diogo Rincón - 2",Oleksandr Shovkovskiy,,Dynamo Kyiv2005
+2005,Shakhtar,32,19,1693.611816,1,1.6,1.5,1.3,0,0,0,0,0,1,GR,ua Club Crest Shakhtar,10,5,1,4,15,13,2,16,,,,,24780,"Julius Aghahowa, Matuzalém - 2",Jan Lašt?vka,,Shakhtar2005
+2005,CSKA Moscow,32,20,1672.591187,0,1.5,1,0.7,0,0,0,0,0,0,GR,ru Club Crest CSKA Moscow,10,4,3,3,10,7,3,15,,,,,23432,Sergei Semak - 4,Igor Akinfeev,,CSKA Moscow2005
+2005,Panathinaikos,32,21,1736.358276,11,1.5,1.833333333,1.333333333,0,0,0,1,2,3,GR,gr Club Crest Panathinaikos,6,2,3,1,11,8,3,9,,,,,11959,Ezequiel González - 3,Kostas Chalkias,,Panathinaikos2005
+2005,Fenerbahçe,32,22,1734.802979,1,1.5,1.666666667,2.166666667,0,0,0,0,0,1,GR,tr Club Crest Fenerbahçe,6,3,0,3,10,13,-3,9,,,,,36701,Tuncay ?anl? - 5,Rü?tü Reçber,,Fenerbahçe2005
+2005,Rosenborg,32,23,1572.550903,6,1.4,1.5,1.7,0,0,0,0,1,4,GR,no Club Crest Rosenborg,10,4,2,4,15,17,-2,14,,,,,20912,Thorstein Helstad - 2,Espen Johnsen,,Rosenborg2005
+2005,Maccabi Tel Aviv,32,24,1473.233887,0,1.4,0.9,1.2,0,0,0,0,0,0,GR,il Club Crest Maccabi Tel Aviv,10,4,2,4,9,12,-3,14,,,,,20340,Baruch Dego - 4,Liran Strauber,,Maccabi Tel Aviv2005
+2005,Valencia,32,25,1880.218628,69,1.166666667,1,1.666666667,0,2,2,3,3,3,GR,es Club Crest Valencia,6,2,1,3,6,10,-4,7,,,,,35945,Vicente Rodríguez - 2,Santiago Cañizares,,Valencia2005
+2005,Paris S-G,32,26,1755.993042,3,0.833333333,0.5,1.333333333,0,0,0,0,1,1,GR,fr Club Crest Paris S-G,6,1,2,3,3,8,-5,5,,,,,40629,"Charles-Édouard Coridon, Fabrice Pancrate... - 1",Lionel Letizi,,Paris S-G2005
+2005,Celtic,32,27,1728.056641,2,0.833333333,0.666666667,1.666666667,0,0,0,0,0,2,GR,sct Club Crest Celtic,6,1,2,3,4,10,-6,5,,,,,58740,"John Hartson, Stanislav Varga... - 1",David Marshall,,Celtic2005
+2005,Sparta Prague,32,28,1659.677979,10,0.8,0.8,1.7,0,0,0,0,3,4,GR,cz Club Crest Sparta Prague,10,2,2,6,8,17,-9,8,,,,,14711,"Tomáš Jun, Lukáš Zelenka - 1",Jaromír Blažek,,Sparta Prague2005
+2005,La Coruña,32,29,1765.187622,32,0.75,0.375,1.125,0,0,1,3,4,4,GR,es Club Crest La Coruña,8,1,3,4,3,9,-6,6,,,,,17473,,José Molina,,La Coruña2005
+2005,Ajax,32,30,1733.236816,8,0.666666667,1,1.666666667,0,0,0,1,1,2,GR,nl Club Crest Ajax,6,1,1,4,6,10,-4,4,,,,,49185,"Tomáš Galásek, Nicolae Mitea... - 1","Bogdan Lobon?, Hans Vonk...",,Ajax2005
+2005,Anderlecht,32,31,1671.512573,5,0.375,0.875,2.25,0,0,0,0,1,3,GR,be Club Crest Anderlecht,8,1,0,7,7,18,-11,3,,,,,21519,Christian Wilhelmsson - 2,Daniel Zítka,,Anderlecht2005
+2005,Roma,32,32,1720.238037,6,0.166666667,0.666666667,2.666666667,0,0,0,0,2,2,GR,it Club Crest Roma,6,0,1,5,4,16,-12,1,,,,,19027,"Antonio Cassano, Vincenzo Montella... - 1",Ivan Pelizzoli,,Roma2005
+2004,Porto,1,1,1839.724854,10,2.076923077,1.538461538,0.923076923,0,0,0,1,2,2,W,pt Club Crest Porto,13,7,6,1,20,12,8,27,,,,,45283,Benni McCarthy - 4,Vítor Baía,,Porto2004
+2004,Monaco,2,2,1820.219604,1,1.692307692,2.076923077,1.461538462,0,0,0,0,0,1,F,fr Club Crest Monaco,13,6,4,4,27,19,8,22,,,,,22558,Fernando Morientes - 9,Flavio Roma,,Monaco2004
+2004,Chelsea,4,3,1838.34314,7,2,1.5,0.714285714,0,0,0,1,1,1,SF,eng Club Crest Chelsea,14,8,4,2,21,10,11,28,,,,,38013,Frank Lampard - 4,Carlo Cudicini,,Chelsea2004
+2004,La Coruña,4,4,1860.605103,17,1.714285714,1.428571429,1.214285714,0,0,0,2,3,3,SF,es Club Crest La Coruña,14,7,3,4,20,17,3,24,,,,,26079,Albert Luque - 4,José Molina,,La Coruña2004
+2004,Real Madrid,8,5,1953.55127,156,2.1,1.8,1.1,2,2,4,4,4,4,QF,es Club Crest Real Madrid,10,6,3,1,18,11,7,21,,,,,59429,Ronaldo - 4,Iker Casillas,,Real Madrid2004
+2004,Arsenal,8,6,1891.136841,14,1.7,1.6,1.1,0,0,0,1,3,4,QF,eng Club Crest Arsenal,10,5,2,3,16,11,5,17,,,,,35009,Thierry Henry - 5,Jens Lehmann,,Arsenal2004
+2004,Milan,8,7,1837.316284,67,1.7,1.2,0.9,1,1,1,1,2,3,QF,it Club Crest Milan,10,5,2,3,12,9,3,17,,,,,47132,"Kaká, Andriy Shevchenko - 4",Dida,,Milan2004
+2004,Lyon,8,8,1782.189087,5,1.7,1.1,1.1,0,0,0,0,1,3,QF,fr Club Crest Lyon,10,5,2,3,11,11,0,17,,,,,38740,Juninho Pernambucano - 5,Grégory Coupet,,Lyon2004
+2004,Manchester Utd,16,9,1939.885132,36,2,1.875,0.625,0,0,1,4,4,4,R16,eng Club Crest Manchester Utd,8,5,1,2,15,5,10,16,,,,,66849,Ruud van Nistelrooy - 4,Tim Howard,,Manchester Utd2004
+2004,Juventus,16,10,1879.090942,35,1.625,1.875,1,0,1,1,1,2,3,R16,it Club Crest Juventus,8,4,1,3,15,8,7,13,,,,,17231,David Trezeguet - 4,Gianluigi Buffon,,Juventus2004
+2004,Stuttgart,16,11,1764.754883,0,1.625,1.125,0.875,0,0,0,0,0,0,R16,de Club Crest Stuttgart,8,4,1,3,9,7,2,13,,,,,46919,Kevin Kurányi - 3,Timo Hildebrand,,Stuttgart2004
+2004,Loko Moscow,16,12,1637.766602,4,1.4,1.2,1.1,0,0,0,0,1,2,R16,ru Club Crest Loko Moscow,10,4,2,4,12,11,1,14,,,,,26750,Dmitri Loskov - 2,Sergei Ovchinnikov,,Loko Moscow2004
+2004,Sparta Prague,16,13,1696.202148,7,1.3,1.1,1.3,0,0,0,0,2,3,R16,cz Club Crest Sparta Prague,10,3,4,3,11,13,-2,13,,,,,17994,Karel Poborský - 2,Jaromír Blažek,,Sparta Prague2004
+2004,Bayern Munich,16,14,1838.988403,86,1.25,0.875,0.875,1,1,2,3,3,4,R16,de Club Crest Bayern Munich,8,2,4,2,7,7,0,10,,,,,54500,Roy Makaay - 5,Oliver Kahn,,Bayern Munich2004
+2004,Celta Vigo,16,15,1793.632935,0,1.2,1.2,1.3,0,0,0,0,0,0,R16,es Club Crest Celta Vigo,10,3,3,4,12,13,-1,12,,,,,20803,José Ignacio - 2,José Manuel Pinto,,Celta Vigo2004
+2004,Real Sociedad,16,16,1758.430542,0,1.125,1,1.25,0,0,0,0,0,0,R16,es Club Crest Real Sociedad,8,2,3,3,8,10,-2,9,,,,,29148,Darko Kova?evi? - 2,Sander Westerveld,,Real Sociedad2004
+2004,Celtic,32,17,1805.275635,1,1.9,1.8,0.7,0,0,0,0,0,1,GR,sct Club Crest Celtic,10,6,1,3,18,7,11,19,,,,,58941,Chris Sutton - 3,Magnus Hedman,,Celtic2004
+2004,Anderlecht,32,18,1750.364624,4,1.7,1.1,0.9,0,0,0,0,1,2,GR,be Club Crest Anderlecht,10,5,2,3,11,9,2,17,,,,,22053,Aruna Dindane - 2,Daniel Zítka,,Anderlecht2004
+2004,PSV,32,19,1803.648682,4,1.666666667,1.333333333,1.166666667,0,0,0,0,0,4,GR,nl Club Crest PSV Eindhoven,6,3,1,2,8,7,1,10,,,,,28167,"Wilfred Bouma, John de Jong... - 2",Ronald Waterreus,,PSV2004
+2004,Dynamo Kyiv,32,20,1697.500488,6,1.625,1.625,1.125,0,0,0,0,1,4,GR,ua Club Crest Dynamo Kyiv,8,4,1,3,13,9,4,13,,,,,79250,Diogo Rincón - 3,Oleksandr Shovkovskiy,,Dynamo Kyiv2004
+2004,Galatasaray,32,21,1705.507568,12,1.625,1.5,1,0,0,0,1,2,4,GR,tr Club Crest Galatasaray,8,4,1,3,12,8,4,13,,,,,47929,Hakan ?ükür - 5,Faryd Mondragón,,Galatasaray2004
+2004,Lazio,32,22,1774.245239,11,1.375,1.25,1.375,0,0,0,1,2,3,GR,it Club Crest Lazio,8,3,2,3,10,11,-1,11,,,,,32670,Simone Inzaghi - 3,Angelo Peruzzi,,Lazio2004
+2004,Club Brugge,32,23,1663.088379,1,1.375,1,1.125,0,0,0,0,0,1,GR,be Club Crest Club Brugge,8,3,2,3,8,9,-1,11,,,,,27505,Rune Lange - 2,Dany Verlinden,,Club Brugge2004
+2004,Inter,32,24,1808.524902,15,1.333333333,1.333333333,1.833333333,0,0,1,1,1,1,GR,it Club Crest Inter,6,2,2,2,8,11,-3,8,,,,,34033,"Daniele Adani, Christian Vieri - 2",Francesco Toldo,,Inter2004
+2004,Ajax,32,25,1755.426147,7,1.25,1.125,1.125,0,0,0,1,1,1,GR,nl Club Crest Ajax,8,3,1,4,9,9,0,10,,,,,49365,Wesley Sonck - 4,Bogdan Lobon?,,Ajax2004
+2004,Be?ikta?,32,26,1776.088745,1,1.166666667,0.833333333,1.166666667,0,0,0,0,0,1,GR,tr Club Crest Be?ikta?,6,2,1,3,5,7,-2,7,,,,,31379,"Daniel Pancu, Sergen Yalç?n - 2",Óscar Córdoba,,Be?ikta?2004
+2004,Marseille,32,27,1686.098389,3,1,1.25,1.375,0,0,0,0,1,1,GR,fr Club Crest Marseille,8,2,2,4,10,11,-1,8,,,,,54935,Didier Drogba - 5,Vedran Runje,,Marseille2004
+2004,Rangers,32,28,1678.599365,2,1,0.875,1.5,0,0,0,0,0,2,GR,sct Club Crest Rangers,8,2,2,4,7,12,-5,8,,,,,48425,"Emerson, Michael Mols... - 1",Stefan Klos,,Rangers2004
+2004,Partizan,32,29,1641.496826,0,0.8,0.7,1.2,0,0,0,0,0,0,GR,rs Club Crest Partizan,10,1,5,4,7,12,-5,8,,,,,31441,Andrija Delibaši? - 3,?or?e Panti?,,Partizan2004
+2004,Olympiacos,32,30,1741.558472,4,0.666666667,1,2.166666667,0,0,0,0,0,4,GR,gr Club Crest Olympiacos,6,1,1,4,6,13,-7,4,,,,,13005,"Nery Castillo, Ieroklis Stoltidis - 2",Fanis Katergiannakis,,Olympiacos2004
+2004,Panathinaikos,32,31,1720.800903,10,0.666666667,0.833333333,2.166666667,0,0,0,1,2,2,GR,gr Club Crest Panathinaikos,6,1,1,4,5,13,-8,4,,,,,9469,Michalis Konstantinou - 2,Antonios Nikopolidis,,Panathinaikos2004
+2004,AEK Athens,32,32,1666.905518,1,0.625,0.5,1.625,0,0,0,0,0,1,GR,gr Club Crest AEK Athens,8,1,2,5,4,13,-9,5,,,,,10238,Vasilios Tsiartas - 1,Chrisostomos Michailidis,,AEK Athens2004
